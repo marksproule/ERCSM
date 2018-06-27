@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Task" max_length="40" name="sn_customerservice_task" sizeclass="83" type="collection">
+        <element attributes="readonly_clickthrough=true" label="Parent Case" max_length="32" name="x_smoit_enrcsm_parent_case" reference="x_smoit_enrcsm_case" type="reference"/>
+    </element>
+</database>

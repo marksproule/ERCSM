@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_email_layout">
+    <sys_email_layout action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <advanced_layout/>
+        <description/>
+        <layout><![CDATA[<p></p>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="width: 3%;">&nbsp;&nbsp;</td>
+<td>
+<p><span style="font-size: 11pt;">${notification:body}</span></p>
+</td>
+<td style="width: 15%;">&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><br /><span style="font-size: 11pt;">Sincerely,</span></p>
+<p><span style="font-size: 11pt;"><strong>ER Service Desk</strong></span><br /> <span style="font-size: 11pt;"><a href="http://www.saskatchewan.ca/">Government of Saskatchewan</a></span><br /> <span style="font-size: 10pt;">Ministry of Energy and Resources<br /> 1000, 2103-11th Avenue<br /> REGINA SK S4P 3Z8<br /> Bus: 1-855-219-9373</span></p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><br /><u><span style="color: #7f7f7f; font-size: 7.0pt;">Confidentiality Notice:</span></u><span style="color: #7f7f7f; font-size: 7.0pt;">&nbsp;This e-mail was intended for a specific recipient.&nbsp;It may contain information that is privileged, confidential or exempt from disclosure.&nbsp;Any privilege that exists is not waived.&nbsp;If you are not the intended recipient, do not distribute it to another person or use it for any other purpose.&nbsp;Please delete it and advise me by return e-mail or telephone.&nbsp;Thank you</span></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p></p>]]></layout>
+        <name>ER Outbound Email Template</name>
+        <sys_class_name>sys_email_layout</sys_class_name>
+        <sys_created_by>adm.Atiyeht</sys_created_by>
+        <sys_created_on>2018-04-30 18:27:15</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>7b9b382ddb3d9b000124327e9d961973</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>ER Outbound Email Template</sys_name>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_email_layout_7b9b382ddb3d9b000124327e9d961973</sys_update_name>
+        <sys_updated_by>adm.Atiyeht</sys_updated_by>
+        <sys_updated_on>2018-05-01 17:48:26</sys_updated_on>
+    </sys_email_layout>
+</record_update>

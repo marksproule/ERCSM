@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="subcategory" table="x_smoit_enrcsm_case" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>9</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence/>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16fc4f82dbb19f000124327e9d9619af</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-16 15:36:34</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Fix</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence/>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ffc8f82dbb19f000124327e9d9619f0</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-16 15:35:33</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enhancement</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence/>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97fc8f82dbb19f000124327e9d9619fd</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-16 15:35:33</sys_updated_on>
+            <value>12</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>6</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence/>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42fc4f82dbb19f000124327e9d96193c</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-16 15:37:00</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence/>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71fc0f82dbb19f000124327e9d9619e1</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-16 15:41:23</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>7</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence/>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cefc4f82dbb19f000124327e9d961943</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-16 15:36:55</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agricultural Exemptions</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9afc4f82dbb19f000124327e9d9619b8</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:03:01</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EPAP</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72fc8f82dbb19f000124327e9d96191f</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:06:34</sys_updated_on>
+            <value>13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facility</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cefc4f82dbb19f000124327e9d96194b</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:11:34</sys_updated_on>
+            <value>16</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oil and Gas</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2afc4f82dbb19f000124327e9d9619f3</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:06:08</sys_updated_on>
+            <value>27</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PNG</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5fc0f82dbb19f000124327e9d9619a9</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:01:51</sys_updated_on>
+            <value>40</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Production History</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9fc0f82dbb19f000124327e9d9619ed</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:09:17</sys_updated_on>
+            <value>41</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Annual Rentals</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5fc4f82dbb19f000124327e9d961908</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:10:21</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Audit</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1fc0f82dbb19f000124327e9d9619be</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:08:35</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Website</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>abfccf82dbb19f000124327e9d96192f</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:08:15</sys_updated_on>
+            <value>60</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Create Incident</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7fc8f82dbb19f000124327e9d961990</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-29 13:50:29</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EVAP</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fafc8f82dbb19f000124327e9d961929</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:06:38</sys_updated_on>
+            <value>14</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Generic service request</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43fc8f82dbb19f000124327e9d96199c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-29 13:50:32</sys_updated_on>
+            <value>17</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Immediate Reporting</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42fc4f82dbb19f000124327e9d961954</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:11:37</sys_updated_on>
+            <value>18</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mineral Ownership</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2fc4f82dbb19f000124327e9d9619c2</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:03:04</sys_updated_on>
+            <value>22</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7fccf82dbb19f000124327e9d961916</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:08:17</sys_updated_on>
+            <value>37</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Subscriptions</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1fc0f82dbb19f000124327e9d9619f4</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:09:23</sys_updated_on>
+            <value>50</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Subsurface Minerals</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2fc8f82dbb19f000124327e9d961908</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:06:10</sys_updated_on>
+            <value>51</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tenure Acquisition</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5fc0f82dbb19f000124327e9d9619ae</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:01:54</sys_updated_on>
+            <value>52</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Collections</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9fc0f82dbb19f000124327e9d9619c3</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:08:39</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Continuance</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5fc4f82dbb19f000124327e9d96190f</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:10:26</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Crown/Freehold Agreements</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79fc4f82dbb19f000124327e9d961916</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:10:32</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incident/Spills</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46fc4f82dbb19f000124327e9d96195c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:11:41</sys_updated_on>
+            <value>19</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Invoicing Accounting</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65fc0f82dbb19f000124327e9d9619c9</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:08:49</sys_updated_on>
+            <value>21</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mineral Rights Tax</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2efc4f82dbb19f000124327e9d9619cb</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:03:07</sys_updated_on>
+            <value>23</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Operator Changes</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6fc8f82dbb19f000124327e9d961934</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:06:43</sys_updated_on>
+            <value>28</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2efc4f82dbb19f000124327e9d9619fd</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:06:13</sys_updated_on>
+            <value>31</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Report App defect</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ffc8f82dbb19f000124327e9d9619a7</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-29 13:50:34</sys_updated_on>
+            <value>42</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tenure Administrative</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69fc0f82dbb19f000124327e9d9619b3</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:01:58</sys_updated_on>
+            <value>53</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vendor Extracts</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7dfc0f82dbb19f000124327e9d9619fa</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:09:25</sys_updated_on>
+            <value>57</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Extensions</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>4</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7dfc4f82dbb19f000124327e9d96191d</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:10:36</sys_updated_on>
+            <value>15</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inspection</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>4</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82fc4f82dbb19f000124327e9d961971</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:11:44</sys_updated_on>
+            <value>20</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mineral Trust</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>4</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2afc4f82dbb19f000124327e9d9619d5</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:03:10</sys_updated_on>
+            <value>24</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pipeline Splits</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>4</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76fc8f82dbb19f000124327e9d96194a</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:06:48</sys_updated_on>
+            <value>38</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Request for App Enhancement</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>4</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cbfc8f82dbb19f000124327e9d9619b3</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-29 13:50:37</sys_updated_on>
+            <value>43</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Revenue</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>4</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fdfc0f82dbb19f000124327e9d9619d4</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:08:55</sys_updated_on>
+            <value>47</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Waiver</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>4</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6dfc0f82dbb19f000124327e9d9619b8</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:02:01</sys_updated_on>
+            <value>59</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Well Records</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>4</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79fc4f82dbb19f000124327e9d961901</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:09:28</sys_updated_on>
+            <value>63</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Obligations</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>5</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9afc4f82dbb19f000124327e9d961979</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:11:47</sys_updated_on>
+            <value>25</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Offsets</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>5</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2fc4f82dbb19f000124327e9d961925</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:10:40</sys_updated_on>
+            <value>26</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>5</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29fc0f82dbb19f000124327e9d9619a4</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:02:04</sys_updated_on>
+            <value>30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>5</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75fc0f82dbb19f000124327e9d9619e7</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:09:31</sys_updated_on>
+            <value>33</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Request for Data</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>5</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93fc8f82dbb19f000124327e9d9619cc</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-29 13:50:39</sys_updated_on>
+            <value>44</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Revenue Accounting</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>5</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fdfc0f82dbb19f000124327e9d9619da</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:08:57</sys_updated_on>
+            <value>48</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RTA/RTP</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>5</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6fc8f82dbb19f000124327e9d961955</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:06:53</sys_updated_on>
+            <value>49</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Treaty Land Entitlement</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>5</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6fc4f82dbb19f000124327e9d9619e9</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:03:13</sys_updated_on>
+            <value>54</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>6</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61fc0f82dbb19f000124327e9d9619cf</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:09:00</sys_updated_on>
+            <value>32</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>6</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6fc4f82dbb19f000124327e9d9619df</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:03:16</sys_updated_on>
+            <value>35</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pipeline/Flowline</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>6</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12fc4f82dbb19f000124327e9d96198b</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:11:51</sys_updated_on>
+            <value>39</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Request for Ministry Security change</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>6</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17fc8f82dbb19f000124327e9d9619d8</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-29 13:50:41</sys_updated_on>
+            <value>45</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Valuation</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>6</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cbfc8f82dbb19f000124327e9d961960</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:06:56</sys_updated_on>
+            <value>56</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work Commitments/Obligations</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>6</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46fc4f82dbb19f000124327e9d961934</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:10:50</sys_updated_on>
+            <value>64</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>5</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>7</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cafc4f82dbb19f000124327e9d96192c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:10:53</sys_updated_on>
+            <value>36</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Request Industry security Change</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>7</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1bfc8f82dbb19f000124327e9d9619e4</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-29 13:50:45</sys_updated_on>
+            <value>46</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unit/Project</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>7</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9efc4f82dbb19f000124327e9d961993</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:11:54</sys_updated_on>
+            <value>55</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volumetrics</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>7</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43fc8f82dbb19f000124327e9d96196c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:06:59</sys_updated_on>
+            <value>58</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>8</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76fc8f82dbb19f000124327e9d96193f</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:07:02</sys_updated_on>
+            <value>34</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Well</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>8</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9efc4f82dbb19f000124327e9d96199c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:11:57</sys_updated_on>
+            <value>61</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>CAG</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>8</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-29 13:50:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc82553adbd69b4032a53c8f9d961965</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-06-01 04:15:23</sys_updated_on>
+            <value>65</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Well Data Corrections</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>9</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12fc4f82dbb19f000124327e9d9619a6</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:11:59</sys_updated_on>
+            <value>62</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>10</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:18:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16fc4f82dbb19f000124327e9d961982</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>adm.elliem</sys_updated_by>
+            <sys_updated_on>2018-05-23 18:12:03</sys_updated_on>
+            <value>29</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <name>x_smoit_enrcsm_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-02 18:11:10</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>da5b8342dbb19f000124327e9d9619b6</sys_id>
+            <sys_mod_count>328</sys_mod_count>
+            <sys_name>subcategory</sys_name>
+            <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+            <sys_update_name>sys_choice_x_smoit_enrcsm_case_subcategory</sys_update_name>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-06-01 04:15:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

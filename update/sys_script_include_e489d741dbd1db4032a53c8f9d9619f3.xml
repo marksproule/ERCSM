@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_smoit_enrcsm.AutoCloseCase</api_name>
+        <client_callable>false</client_callable>
+        <description>/********* Code History *************&#13;
+Date		Created /Updated By		Feature #	Short Description of change&#13;
+4/4/2018         Ellie M.                                      FETR0011152   1.15 ER CSM - Case Autoclosure in Case of No Customer Response&#13;
+&#13;
+*********** End of Code History ************/</description>
+        <name>AutoCloseCase</name>
+        <script><![CDATA[var AutoCloseCase = Class.create();
+AutoCloseCase.prototype = {
+	initialize: function() {
+	},
+	
+	autoCloseCase: function(days) {
+		gs.info('AutoCloseCase.autoCloseCase Start');
+		
+		var ps = gs.getProperty('x_smoit_enrcsm.auto_close_days');
+		var pn = parseInt(ps);
+		
+		pn = (days == null) ? pn : days;
+		
+		if(pn >= 0) {
+			// Common Code
+			var start = new GlideDateTime();
+			
+			var gr = new GlideRecord('x_smoit_enrcsm_case');
+			gr.addQuery('state', '6');
+			
+			// This code handles calendar days
+			start.addDaysLocalTime(-1*pn);
+			gr.addQuery('sys_updated_on', '<', start.toString());
+			gs.info('AutoCloseCase.autoCloseCase query='+gr.getEncodedQuery());
+			
+			// This code handles business days
+			// 		//Get a schedule by name to calculate duration
+			// 		var schedRec = new GlideRecord('cmn_schedule');
+			// 		schedRec.get('name', '8-5 weekdays excluding holidays');
+			// 		//var sched = new GlideSchedule(''+ schedRec.sys_id, 'Canada/Saskatchewan');
+			// 		var sched = new GlideSchedule();
+			// 		sched.load(schedRec.sys_id+''); // loads "8-5 weekdays excluding holidays" schedule
+			
+			
+			// 		var dur = new GlideDuration(-60 * 60 * 24 * 1000 * pn);
+			// 		var end = sched.add(start.getDate(), dur);
+			//Query for resolved case records
+			// 		gr.addQuery('sys_updated_on', '<', end.toString());
+			
+			// Common code
+			gr.query();
+			while(gr.next()){
+				//Close any records that have not been updated in 'pn' number of days
+				gr.state = 3;
+				gr.active = false;
+				gr.worknotes = 'case automatically closed after ' + pn + ' days in the Resolved state.';
+				gr.update();
+				gs.info('AutoCloseCase.autoCloseCase Case '+gr.number+' auto-closed.');
+			}
+			
+		}
+	},
+	type: 'AutoCloseCase'
+};
+]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>adm.elliem</sys_created_by>
+        <sys_created_on>2018-04-04 20:10:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e489d741dbd1db4032a53c8f9d9619f3</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>AutoCloseCase</sys_name>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_script_include_e489d741dbd1db4032a53c8f9d9619f3</sys_update_name>
+        <sys_updated_by>adm.Marks</sys_updated_by>
+        <sys_updated_on>2018-05-06 21:56:19</sys_updated_on>
+    </sys_script_include>
+</record_update>

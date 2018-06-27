@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="base_case" label="Base case" language="en" table="x_smoit_enrcsm_related_cases">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>base_case</element>
+            <help/>
+            <hint/>
+            <label>Base case</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_related_cases</name>
+            <plural>Base cases</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-04-03 21:26:59</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>77022efcdb11134c0124327e9d9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Base case</sys_name>
+            <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+            <sys_update_name>sys_documentation_x_smoit_enrcsm_related_cases_base_case_en</sys_update_name>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-04-03 21:26:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

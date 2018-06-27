@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>ER Case activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_smoit_enrcsm_case_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>adm.Atiyeht</sys_created_by>
+        <sys_created_on>2018-05-01 15:07:02</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>9b9711f5db751f000124327e9d9619b2</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>glide.ui.x_smoit_enrcsm_case_activity.fields</sys_name>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_properties_9b9711f5db751f000124327e9d9619b2</sys_update_name>
+        <sys_updated_by>adm.Marks</sys_updated_by>
+        <sys_updated_on>2018-06-07 21:30:54</sys_updated_on>
+        <type>string</type>
+        <value>assigned_to,cmdb_ci,state,impact,priority,opened_by,work_notes,comments,*Attachments*,*Email*,account,consumer,contact,assignment_group,short_description,subcategory,category,iris_state,cag_state,iris_urgency,reference,iris_impact,iris_change_type,business_area,iris_application</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=9b9711f5db751f000124327e9d9619b2"/>
+</record_update>

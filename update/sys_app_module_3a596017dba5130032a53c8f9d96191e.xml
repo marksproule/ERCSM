@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="ER Customer Service">4ed90d2adb60db840124327e9d96194b</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint>Knowledge Homepage</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Knowledge Search NG</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1100</order>
+        <override_menu_roles>true</override_menu_roles>
+        <query>knowledge_home_launcher.do</query>
+        <report/>
+        <roles>x_smoit_enrcsm.user,x_smoit_enrcsm.agent,x_smoit_enrcsm.manager,x_smoit_enrcsm.knowledge</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>adm.elliem</sys_created_by>
+        <sys_created_on>2018-04-23 17:20:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3a596017dba5130032a53c8f9d96191e</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>Knowledge</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_app_module_3a596017dba5130032a53c8f9d96191e</sys_update_name>
+        <sys_updated_by>adm.Marks</sys_updated_by>
+        <sys_updated_on>2018-05-28 20:25:28</sys_updated_on>
+        <timeline_page/>
+        <title>Knowledge</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

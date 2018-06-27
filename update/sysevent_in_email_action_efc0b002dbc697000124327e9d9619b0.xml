@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>false</active>
+        <assignment_operator/>
+        <condition_script/>
+        <description>/********* Code History *************&#13;
+Date     Created /UpdatedBy     Feature#     Short Description of change&#13;
+2018/05/14           A.Tash            FETR0011145       change the status of awaiting info to Open.&#13;
+*********** End of Code History ************/</description>
+        <event_name>email.read</event_name>
+        <filter_condition/>
+        <from/>
+        <name>ER Case Reply email</name>
+        <order>100</order>
+        <reply_email/>
+        <required_roles/>
+        <script><![CDATA[(function runAction(/*GlideRecord*/ current, /*GlideRecord*/ event, /*EmailWrapper*/ email, /*ScopedEmailLogger*/ logger, /*EmailClassifier*/ classifier) {
+	
+	gs.include('validators');
+	
+	if (current.state == 18) // awaiting info
+		{
+		current.state = 10; //open
+ 		
+		current.update();
+	}
+	
+})(current, event, email, logger, classifier);]]></script>
+        <stop_processing>false</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>adm.Atiyeht</sys_created_by>
+        <sys_created_on>2018-05-14 17:12:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>efc0b002dbc697000124327e9d9619b0</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>ER Case Reply email</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sysevent_in_email_action_efc0b002dbc697000124327e9d9619b0</sys_update_name>
+        <sys_updated_by>adm.Atiyeht</sys_updated_by>
+        <sys_updated_on>2018-05-14 21:37:53</sys_updated_on>
+        <table>x_smoit_enrcsm_case</table>
+        <template/>
+        <type>reply</type>
+    </sysevent_in_email_action>
+</record_update>

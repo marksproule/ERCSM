@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_smoit_enrcsm.knowledge_base</name>
+        <read_roles/>
+        <suffix>knowledge_base</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>adm.Marks</sys_created_by>
+        <sys_created_on>2018-04-30 20:10:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>7a4315addb7d1b0032a53c8f9d961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_smoit_enrcsm.knowledge_base</sys_name>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_properties_7a4315addb7d1b0032a53c8f9d961905</sys_update_name>
+        <sys_updated_by>adm.Marks</sys_updated_by>
+        <sys_updated_on>2018-04-30 20:10:26</sys_updated_on>
+        <type>string</type>
+        <value>80620812db05dbc80124327e9d9619f7</value>
+        <write_roles>admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=7a4315addb7d1b0032a53c8f9d961905"/>
+</record_update>

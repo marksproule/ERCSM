@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-06-27 21:27:33">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>adm.Marks</sys_created_by>
+        <sys_created_on>2018-04-23 15:29:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>25ff0413db65130032a53c8f9d961932</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My  ECON Knowledge Homepage</sys_name>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>adm.Marks</sys_updated_by>
+        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+        <title>My  ECON Knowledge Homepage</title>
+        <user display_value="Mark Sproule">f98d8c7bdbd2c30ca9ba591e5e961989</user>
+        <view/>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>1</offset>
+                <page display_value="My  ECON Knowledge Homepage">25ff0413db65130032a53c8f9d961932</page>
+                <summary/>
+                <sys_created_by>adm.Marks</sys_created_by>
+                <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                <sys_id>01201813db65130032a53c8f9d96190b</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>adm.Marks</sys_updated_by>
+                <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">01201813db65130032a53c8f9d96190b</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>01201813db65130032a53c8f9d96190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">01201813db65130032a53c8f9d96190b</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>0d201813db65130032a53c8f9d96190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">01201813db65130032a53c8f9d96190b</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>81201813db65130032a53c8f9d96190b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>7d7061dddb655f8032a53c8f9d9619cd</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">01201813db65130032a53c8f9d96190b</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>81201813db65130032a53c8f9d96190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>ECON Knowledge created in past 30 days</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">01201813db65130032a53c8f9d96190b</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>85201813db65130032a53c8f9d96190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">01201813db65130032a53c8f9d96190b</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>89201813db65130032a53c8f9d96190b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">01201813db65130032a53c8f9d96190b</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>89201813db65130032a53c8f9d96190d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>8eaed519db655f8032a53c8f9d961940</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="My  ECON Knowledge Homepage">25ff0413db65130032a53c8f9d961932</page>
+                <summary/>
+                <sys_created_by>adm.Marks</sys_created_by>
+                <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                <sys_id>49201813db65130032a53c8f9d961907</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>adm.Marks</sys_updated_by>
+                <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">49201813db65130032a53c8f9d961907</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>01201813db65130032a53c8f9d961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>Knowledge Search Results</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">49201813db65130032a53c8f9d961907</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>09201813db65130032a53c8f9d961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>content_block_iframe</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">49201813db65130032a53c8f9d961907</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>89201813db65130032a53c8f9d961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">49201813db65130032a53c8f9d961907</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>8d201813db65130032a53c8f9d961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>8eaed519db655f8032a53c8f9d961940</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-23 09:29:58">49201813db65130032a53c8f9d961907</portal_section>
+                        <sys_created_by>adm.Marks</sys_created_by>
+                        <sys_created_on>2018-04-23 15:29:58</sys_created_on>
+                        <sys_id>c9201813db65130032a53c8f9d961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adm.Marks</sys_updated_by>
+                        <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
+                        <value>62952f820a0a0bbf00d55c98d3959195</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

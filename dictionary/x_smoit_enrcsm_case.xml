@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client" audit="true" extends="sn_customerservice_case" label="ER Case" max_length="40" name="x_smoit_enrcsm_case" sizeclass="373" type="collection">
+        <element choice="1" label="IRIS Business Area" max_length="40" name="business_area" type="string">
+            <choice>
+                <element label="Audit Revenue Management" sequence="1" value="audit_revenue_management"/>
+                <element label="Energy Policy" sequence="2" value="energy_policy"/>
+                <element label="IMS" sequence="3" value="ims"/>
+                <element label="Mineral Rights Sales and Registry Development" sequence="4" value="mineral_rights"/>
+                <element label="Petroleum Natural Gas" sequence="5" value="petroleum_natural_gas"/>
+                <element label="Petroleum Tenure" sequence="6" value="petroleum_tenure"/>
+                <element label="Sask Geo Survey" sequence="7" value="sask_geo_survey"/>
+            </choice>
+        </element>
+        <element choice="1" label="CAG State" max_length="40" name="cag_state" type="string">
+            <choice>
+                <element label="CAG Analysis" value="CAG Analysis"/>
+                <element label="CAG Cancelled" value="CAG Cancelled"/>
+                <element label="CAG Deferred" value="CAG Deferred"/>
+                <element label="CAG Denied" value="CAG Denied"/>
+                <element label="CAG Review" value="CAG Review"/>
+                <element label="CAG Scheduled" value="CAG Scheduled"/>
+            </choice>
+        </element>
+        <element choice="1" label="IRIS Application" max_length="40" name="iris_application" type="string">
+            <choice>
+                <element label="Business Intelligence" sequence="0" value="613f87b6dba6fa0086e5d12c5e96199c"/>
+                <element label="Data Extracts" sequence="1" value="bf2f1d334f713e40d6059acf9310c754"/>
+                <element label="Data Integration" sequence="2" value="f74f1d334f713e40d6059acf9310c758"/>
+                <element label="eGIS Integration" sequence="3" value="e66f99334f713e40d6059acf9310c7e3"/>
+                <element label="IRIS Security" sequence="4" value="c52f59334f713e40d6059acf9310c7e2"/>
+                <element label="Monitoring and Analytics" sequence="5" value="635fdd334f713e40d6059acf9310c76b"/>
+                <element label="MOSR" sequence="6" value="244f15734f713e40d6059acf9310c74d"/>
+                <element label="Online Help" sequence="7" value="6a5f87b6dba6fa0086e5d12c5e96199f"/>
+                <element label="Petroleum Tenure" sequence="8" value="02ee99334f713e40d6059acf9310c750"/>
+                <element label="Production Accounting" sequence="9" value="2d7f95734f713e40d6059acf9310c7ba"/>
+                <element label="Revenue Management and Billing" sequence="10" value="620f15734f713e40d6059acf9310c749"/>
+                <element label="Well and Facility Infrastructure" sequence="11" value="d7fed5334f713e40d6059acf9310c729"/>
+            </choice>
+        </element>
+        <element choice="1" label="IRIS Change Type" max_length="40" name="iris_change_type" type="string">
+            <choice>
+                <element label="Modify" sequence="0" value="risc_change_type_modify"/>
+                <element label="Remove" sequence="1" value="risc_change_type_remove"/>
+                <element label="Create" sequence="2" value="risc_change_type_create"/>
+                <element label="Reset Password" sequence="3" value="risc_change_type_reset_password"/>
+            </choice>
+        </element>
+        <element choice="3" default="4" label="IRIS Impact" max_length="40" name="iris_impact" type="integer">
+            <choice>
+                <element label="1 - Extensive/Widespread" sequence="0" value="1"/>
+                <element label="2 - Significant/Large" sequence="1" value="2"/>
+                <element label="3 - Moderate/Limited" sequence="2" value="3"/>
+                <element label="4 - Minor/Localized" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element label="IRIS State" max_length="40" name="iris_state" read_only="true" type="string"/>
+        <element choice="3" default="4" label="IRIS Urgency" max_length="40" name="iris_urgency" type="integer">
+            <choice>
+                <element label="1 - Critical" sequence="0" value="1"/>
+                <element label="2 - High" sequence="1" value="2"/>
+                <element label="3 - Medium" sequence="2" value="3"/>
+                <element label="4 - Low" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element choice="1" label="Preferred Method of Contact" max_length="40" name="preferred_method_of_contact" type="string">
+            <choice>
+                <element label="Web" sequence="0" value="web"/>
+                <element label="Phone" sequence="1" value="phone"/>
+                <element label="Email" sequence="2" value="email"/>
+            </choice>
+        </element>
+        <element label="Reference #" max_length="40" name="reference" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Closure Category" max_length="40" name="u_case_category" type="string">
+            <choice>
+                <element label="Applications" sequence="0" value="1"/>
+                <element label="Billing" sequence="1" value="2"/>
+                <element label="Business Associates" sequence="2" value="3"/>
+                <element label="Data Requests" sequence="3" value="4"/>
+                <element label="Dispositions Oil and Gas Tenure" sequence="4" value="5"/>
+                <element label="Freehold Lands" sequence="5" value="6"/>
+                <element label="Industry Consultation" sequence="6" value="7"/>
+                <element label="Infrastructure" sequence="7" value="8"/>
+                <element label="Liability Management" sequence="8" value="9"/>
+                <element label="Mineral Rights" sequence="9" value="10"/>
+                <element label="Public Offering" sequence="10" value="11"/>
+                <element label="Reporting" sequence="11" value="12"/>
+                <element label="Service Request/IRIS" sequence="12" value="13"/>
+                <element label="Service Request/Petrinex" sequence="13" value="14"/>
+                <element label="Support" sequence="14" value="15"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_case_category" dependent_on_field="u_case_category" label="Closure Subcategory" max_length="40" name="u_case_subcategory" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="3" label="All" value="3"/>
+                <element dependent_value="6" label="All" value="2"/>
+                <element dependent_value="9" label="All" value="1"/>
+                <element dependent_value="7" label="All" value="4"/>
+                <element dependent_value="13" label="Create Incident" value="9"/>
+                <element dependent_value="14" label="Data Fix" value="11"/>
+                <element dependent_value="14" label="Enhancement" value="12"/>
+                <element dependent_value="13" label="Generic service request" value="17"/>
+                <element dependent_value="13" label="Report App defect" value="42"/>
+                <element dependent_value="13" label="Request for App Enhancement" value="43"/>
+                <element dependent_value="13" label="Request for Data" value="44"/>
+                <element dependent_value="13" label="Request for Ministry Security change" value="45"/>
+                <element dependent_value="13" label="Request Industry security Change" value="46"/>
+                <element dependent_value="10" label="Agricultural Exemptions" sequence="1" value="0"/>
+                <element dependent_value="5" label="Annual Rentals" sequence="1" value="5"/>
+                <element dependent_value="12" label="EPAP" sequence="1" value="13"/>
+                <element dependent_value="8" label="Facility" sequence="1" value="16"/>
+                <element dependent_value="2" label="Invoicing Accounting" sequence="1" value="21"/>
+                <element dependent_value="11" label="Oil and Gas" sequence="1" value="27"/>
+                <element dependent_value="1" label="PNG" sequence="1" value="40"/>
+                <element dependent_value="4" label="Production History" sequence="1" value="41"/>
+                <element dependent_value="15" label="Website" sequence="1" value="60"/>
+                <element dependent_value="5" label="Continuance" sequence="2" value="8"/>
+                <element dependent_value="12" label="EVAP" sequence="2" value="14"/>
+                <element dependent_value="8" label="Immediate Reporting" sequence="2" value="18"/>
+                <element dependent_value="10" label="Mineral Ownership" sequence="2" value="22"/>
+                <element dependent_value="15" label="Other" sequence="2" value="37"/>
+                <element dependent_value="4" label="Subscriptions" sequence="2" value="50"/>
+                <element dependent_value="11" label="Subsurface Minerals" sequence="2" value="51"/>
+                <element dependent_value="1" label="Tenure Acquisition" sequence="2" value="52"/>
+                <element dependent_value="5" label="Crown/Freehold Agreements" sequence="3" value="10"/>
+                <element dependent_value="8" label="Incident/Spills" sequence="3" value="19"/>
+                <element dependent_value="10" label="Mineral Rights Tax" sequence="3" value="23"/>
+                <element dependent_value="12" label="Operator Changes" sequence="3" value="28"/>
+                <element dependent_value="11" label="Other" sequence="3" value="31"/>
+                <element dependent_value="2" label="Revenue Accounting" sequence="3" value="48"/>
+                <element dependent_value="1" label="Tenure Administrative" sequence="3" value="53"/>
+                <element dependent_value="4" label="Vendor Extracts" sequence="3" value="57"/>
+                <element dependent_value="2" label="Audit" sequence="4" value="6"/>
+                <element dependent_value="5" label="Extensions" sequence="4" value="15"/>
+                <element dependent_value="8" label="Inspection" sequence="4" value="20"/>
+                <element dependent_value="10" label="Mineral Trust" sequence="4" value="24"/>
+                <element dependent_value="12" label="Pipeline Splits" sequence="4" value="38"/>
+                <element dependent_value="1" label="Waiver" sequence="4" value="59"/>
+                <element dependent_value="4" label="Well Records" sequence="4" value="63"/>
+                <element dependent_value="2" label="Collections" sequence="5" value="7"/>
+                <element dependent_value="8" label="Obligations" sequence="5" value="25"/>
+                <element dependent_value="5" label="Offsets" sequence="5" value="26"/>
+                <element dependent_value="4" label="Other" sequence="5" value="33"/>
+                <element dependent_value="1" label="Other" sequence="5" value="30"/>
+                <element dependent_value="12" label="RTA/RTP" sequence="5" value="49"/>
+                <element dependent_value="2" label="Other" sequence="6" value="32"/>
+                <element dependent_value="8" label="Pipeline/Flowline" sequence="6" value="39"/>
+                <element dependent_value="10" label="Treaty Land Entitlement" sequence="6" value="54"/>
+                <element dependent_value="12" label="Valuation" sequence="6" value="56"/>
+                <element dependent_value="5" label="Work Commitments/Obligations" sequence="6" value="64"/>
+                <element dependent_value="5" label="Other" sequence="7" value="36"/>
+                <element dependent_value="10" label="Other" sequence="7" value="35"/>
+                <element dependent_value="8" label="Unit/Project" sequence="7" value="55"/>
+                <element dependent_value="12" label="Volumetrics" sequence="7" value="58"/>
+                <element dependent_value="12" label="Other" sequence="8" value="34"/>
+                <element dependent_value="8" label="Well" sequence="8" value="61"/>
+                <element dependent_value="8" label="Well Data Corrections" sequence="9" value="62"/>
+                <element dependent_value="8" label="Other" sequence="10" value="29"/>
+            </choice>
+        </element>
+    </element>
+</database>

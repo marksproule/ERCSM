@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>true</active>
+        <assignment_operator/>
+        <condition_script>!(email.from == 'noreply@msging.sasktel.net') &amp;&amp; new x_smoit_enrcsm.ERCSEMailUtil().isERServiceDeskEmail(' ' + email.to + ';')</condition_script>
+        <description>/********* Code History *************&#13;
+Date     Created /UpdatedBy     Feature#     Short Description of change&#13;
+30/4/2018              A.Tash             FETR0011124        create case via email&#13;
+*********** End of Code History ************/</description>
+        <event_name>email.read</event_name>
+        <filter_condition/>
+        <from/>
+        <name>ER Create Case via Channel</name>
+        <order>55</order>
+        <reply_email/>
+        <required_roles/>
+        <script><![CDATA[(function runAction(/*GlideRecord*/ current, /*GlideRecord*/ event, /*EmailWrapper*/ email, /*ScopedEmailLogger*/ logger, /*EmailClassifier*/ classifier) {
+	
+	current.short_description = email.subject;
+	current.work_notes = email.body_text;
+	current.assignment_group = gs.getProperty('x_smoit_enrcsm.default_assignment', '6ef112b3db321b44c7d33c00ad961934'); //ER Service Desk group
+	
+	if 	(new global.ConsumerEMailUtil().isConsumerExist(email.from)) //it's a consumer
+		{
+			var consumerID = new global.ConsumerEMailUtil().getConsumerIDFromEmail(email.from);
+			current.consumer = consumerID;
+			var consumer = new GlideRecord("csm_consumer");
+			if (consumer.get(consumerID))
+				{
+					current.opened_by = consumer.sys_id;
+					current.sys_created_by = consumer.name;
+				}
+			
+		}
+	else if (new ERCSEMailUtil().isUserExist(email.from)) // it's a customer
+		{
+		var contact = new GlideRecord("customer_contact");
+		var contactID = new ERCSEMailUtil().getUserIDFromEmail(email.from);
+		if(contact.get(contactID)){
+			var accountID = contact.account;
+			var account = new GlideRecord("customer_account");
+			if(account.get(accountID)){
+				if(account.customer){
+					current.contact = contact.sys_id;
+					current.account = account.sys_id;
+					current.opened_by = contact.sys_id;
+					if (contact.user_name.nil())
+						{
+						current.sys_created_by = contact.name;
+							current.sys_updated_by = contact.name;
+						}
+					else
+						{
+						current.sys_created_by = contact.user_name;
+					current.sys_updated_by = contact.user_name;
+						}
+						
+				}
+			}
+		}
+	}
+	
+	var gdt = new GlideDateTime();
+	
+	current.contact_type = "email";
+	current.sys_created_on = current.opened_at;
+	current.sys_updated_on = current.opened_at;
+
+	//current.product = new CSEMailUtil().getProductFromEmail(email.to);
+	current.autoSysFields(false);
+	current.insert();
+	
+	//gs.debug(current.getUniqueValue(), 'er create case via channel');
+	
+	
+})(current, event, email, logger, classifier);]]></script>
+        <stop_processing>true</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>adm.Atiyeht</sys_created_by>
+        <sys_created_on>2018-04-30 22:28:29</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eed2b1e1db31db000124327e9d961961</sys_id>
+        <sys_mod_count>48</sys_mod_count>
+        <sys_name>ER Create Case via Channel</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sysevent_in_email_action_eed2b1e1db31db000124327e9d961961</sys_update_name>
+        <sys_updated_by>adm.Marks</sys_updated_by>
+        <sys_updated_on>2018-06-27 18:10:21</sys_updated_on>
+        <table>x_smoit_enrcsm_case</table>
+        <template/>
+        <type>new</type>
+    </sysevent_in_email_action>
+</record_update>

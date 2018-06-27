@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>adm.elliem</sys_created_by>
+        <sys_created_on>2018-04-12 17:30:36</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>4142c03fdb515b4c0124327e9d96193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmn_schedule</sys_name>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_scope_privilege_4142c03fdb515b4c0124327e9d96193c</sys_update_name>
+        <sys_updated_by>adm.elliem</sys_updated_by>
+        <sys_updated_on>2018-04-12 17:30:36</sys_updated_on>
+        <target_name>cmn_schedule</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

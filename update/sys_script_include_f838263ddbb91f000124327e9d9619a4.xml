@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_smoit_enrcsm.ERCSEMailUtil</api_name>
+        <client_callable>false</client_callable>
+        <description>/********* Code History *************&#13;
+Date     Created /UpdatedBy     Feature#     Short Description of change&#13;
+2018/05/11                ATash             FETR0011269       since internal contacts are not given the customer role, removed this part of code when checking for customer role&#13;
+2018/06/27   M.Sproule                                      Added function isERServiceDeskEmail called from inbound actions to determine if sent to er service desk&#13;
+*********** End of Code History ************/</description>
+        <name>ERCSEMailUtil</name>
+        <script><![CDATA[var ERCSEMailUtil = Class.create();
+ERCSEMailUtil.prototype = {
+	initialize: function() {
+	},
+	
+	isERServiceDeskEmail : function(emailTo) {
+		var emails = gs.getProperty('x_smoit_enrcsm.er_servicedesk_emails');
+		var emailAddresses = emailTo.replace(/\;/g,',').split(',');
+		for (var ii = 0 ; ii < emailAddresses.length ; ii++) {
+			if (emails.indexOf(';'+emailAddresses[ii]+';') > -1) {
+				return true;
+			}
+		}
+		return false;
+	},
+	
+	checkCaseChannel: function(email) {
+		var emails = this.getCSProductEmail();
+		var arrayUtil = new global.ArrayUtil();
+		if(!GlidePluginManager.isActive('com.glide.email_accounts'))
+			return false;
+		else if(arrayUtil.indexOf(emails,email)>-1)
+			return true;
+		else
+			return false;
+	},
+	
+	checkCaseProperty: function(email){
+		if(GlidePluginManager.isActive('com.glide.email_accounts')
+			&& (this.getDefaultEmail() == email))
+		return true;
+		else
+			return false;
+	},
+	
+	checkCaseConfigPrefix: function(subject){
+		if(subject && subject.indexOf(this.getConfigPrefix())==0)
+			return true;
+		else
+			return false;
+	},
+	
+	isUserExist: function(email_from){
+		if(gs.getProperty('sn_customerservice.email.create_case_for_non_matched_user', '')=="true"){
+			return true;
+		}else{
+			var gr = new GlideRecord('customer_contact');
+			gr.addQuery('email',email_from);
+			gr.query();
+			if(gr.next()) {
+				//FETR0011269
+				// 				if((new global.CSHelper()).userHasRole(gr.sys_id,'sn_customerservice.customer')){
+					// 					return true;
+					// 				}
+					// 				else{
+						// 					return false;
+						// 				}
+						// 			}else{
+							return true;
+						}
+					}
+				},
+				
+				getDefaultEmail: function(){
+					return gs.getProperty('glide.cs.email.case_queue_address', '');
+				},
+				
+				getConfigPrefix: function(){
+					return gs.getProperty('glide.cs.email.new_case_prefix', 'Case:');
+				},
+				
+				getProductFromPrefix: function(subject){
+					var product = '';
+					if(subject && subject.split(":").length>1){
+						var prefix = subject.split(":")[0];
+						var gr = new GlideRecord('cmdb_model');
+						gr.addQuery('display_name', prefix);
+						gr.query();
+						if(gr.next()) {
+							product = gr.getValue('sys_id');
+						}
+					}
+					return product;
+				},
+				
+				getProductFromEmail: function(email){
+					var product = '';
+					var gr = new GlideRecord('sn_customerservice_channel_config');
+					//gr.addQuery('channel_type', 'email');
+					gr.addQuery('email_address', email);
+					gr.query();
+					if(gr.next()) {
+						product = gr.product;
+					}
+					return product;
+				},
+				
+				getCSProductEmail: function() {
+					var emails = [];
+					var gr = new GlideRecord('sn_customerservice_channel_config');
+					//gr.addQuery('channel_type', 'email');
+					gr.addActiveQuery();
+					gr.query();
+					while(gr.next()) {
+						emails.push(gr.getValue("email_address"));
+					}
+					return emails;
+				},
+				
+				getUserIDFromEmail: function(email){
+					var gr = new GlideRecord("customer_contact");
+					gr.addQuery('email',email);
+					gr.query();
+					if(gr.next()) {
+						return gr.getValue("sys_id");
+					}else{
+						return "";
+					}
+				},
+				
+				type: 'ERCSEMailUtil'
+			};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>adm.Atiyeht</sys_created_by>
+        <sys_created_on>2018-05-01 21:00:20</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f838263ddbb91f000124327e9d9619a4</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>ERCSEMailUtil</sys_name>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_script_include_f838263ddbb91f000124327e9d9619a4</sys_update_name>
+        <sys_updated_by>adm.Marks</sys_updated_by>
+        <sys_updated_on>2018-06-27 20:41:22</sys_updated_on>
+    </sys_script_include>
+</record_update>

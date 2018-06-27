@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>adm.Atiyeht</sys_created_by>
+        <sys_created_on>2018-05-31 21:31:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a64f45a3dbd6db400124327e9d9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_smoit_enrcsm_case.work_notes_list.x_smoit_enrcsm.agent</sys_name>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_security_acl display_value="x_smoit_enrcsm_case.work_notes_list">b54f45a3dbd6db400124327e9d96194d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a64f45a3dbd6db400124327e9d9619cc</sys_update_name>
+        <sys_updated_by>adm.Atiyeht</sys_updated_by>
+        <sys_updated_on>2018-05-31 21:31:26</sys_updated_on>
+        <sys_user_role display_value="x_smoit_enrcsm.agent" name="x_smoit_enrcsm.agent">e989782bdb6cd3c40124327e9d96197b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

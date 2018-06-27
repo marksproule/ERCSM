@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="iris_urgency" table="x_smoit_enrcsm_case" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>iris_urgency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Critical</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-18 16:21:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34bbc59bdb8edb000124327e9d96196d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-18 16:22:27</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>iris_urgency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - High</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-18 16:21:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>108b059bdb8edb000124327e9d961976</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-18 16:22:29</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>iris_urgency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Medium</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-18 16:21:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3bb059bdb8edb000124327e9d96197d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-18 16:22:31</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>iris_urgency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Low</label>
+            <language>en</language>
+            <name>x_smoit_enrcsm_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-18 16:21:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bacb855bdb8edb000124327e9d96194e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adm.Marks</sys_updated_by>
+            <sys_updated_on>2018-05-18 16:22:33</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>iris_urgency</element>
+            <name>x_smoit_enrcsm_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>adm.Marks</sys_created_by>
+            <sys_created_on>2018-05-18 16:21:08</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9a9b859bdb8edb000124327e9d96194e</sys_id>
+            <sys_mod_count>10</sys_mod_count>
+            <sys_name>iris_urgency</sys_name>
+            <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+            <sys_update_name>sys_choice_x_smoit_enrcsm_case_iris_urgency</sys_update_name>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-05-23 16:29:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

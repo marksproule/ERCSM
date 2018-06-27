@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="x_smoit_enrcsm_case" relationship="2823ee30db51134c0124327e9d961950" sys_domain="global" table="x_smoit_enrcsm_related_cases" version="2" view="er_case">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>base_case</element>
+            <list_id display_value="x_smoit_enrcsm_related_cases" element="NULL" name="x_smoit_enrcsm_related_cases" parent="x_smoit_enrcsm_case" relationship="2823ee30db51134c0124327e9d961950" sys_domain="global" view="9d034920db5dd34032a53c8f9d961973">3c15b245dbdd134c0124327e9d9619b0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-04-04 17:28:33</sys_created_on>
+            <sys_id>b815b245dbdd134c0124327e9d9619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-04-04 17:28:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>base_case.short_description</element>
+            <list_id display_value="x_smoit_enrcsm_related_cases" element="NULL" name="x_smoit_enrcsm_related_cases" parent="x_smoit_enrcsm_case" relationship="2823ee30db51134c0124327e9d961950" sys_domain="global" view="9d034920db5dd34032a53c8f9d961973">3c15b245dbdd134c0124327e9d9619b0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-04-04 17:28:33</sys_created_on>
+            <sys_id>b015b245dbdd134c0124327e9d9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-04-04 17:28:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>related_case</element>
+            <list_id display_value="x_smoit_enrcsm_related_cases" element="NULL" name="x_smoit_enrcsm_related_cases" parent="x_smoit_enrcsm_case" relationship="2823ee30db51134c0124327e9d961950" sys_domain="global" view="9d034920db5dd34032a53c8f9d961973">3c15b245dbdd134c0124327e9d9619b0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-04-04 17:28:33</sys_created_on>
+            <sys_id>3415b245dbdd134c0124327e9d9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-04-04 17:28:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>related_case.short_description</element>
+            <list_id display_value="x_smoit_enrcsm_related_cases" element="NULL" name="x_smoit_enrcsm_related_cases" parent="x_smoit_enrcsm_case" relationship="2823ee30db51134c0124327e9d961950" sys_domain="global" view="9d034920db5dd34032a53c8f9d961973">3c15b245dbdd134c0124327e9d9619b0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-04-04 17:28:33</sys_created_on>
+            <sys_id>b415b245dbdd134c0124327e9d9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-04-04 17:28:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_smoit_enrcsm_related_cases</name>
+            <parent>x_smoit_enrcsm_case</parent>
+            <position/>
+            <relationship display_value="ER Linked Cases">2823ee30db51134c0124327e9d961950</relationship>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-04-04 17:28:33</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c15b245dbdd134c0124327e9d9619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_smoit_enrcsm_related_cases</sys_name>
+            <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+            <sys_update_name>sys_ui_list_x_smoit_enrcsm_case_2823ee30db51134c0124327e9d961950_enr_case</sys_update_name>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-04-04 17:28:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="ER Case" name="er_case">9d034920db5dd34032a53c8f9d961973</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

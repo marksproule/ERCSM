@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_email_client_template">
+    <sys_email_client_template action="INSERT_OR_UPDATE">
+        <blind_copied/>
+        <body/>
+        <condition/>
+        <copied>assigned_to</copied>
+        <from/>
+        <name>reply-for-customer-service-er</name>
+        <order>100</order>
+        <recipients>contact.email</recipients>
+        <reply_to>er.servicedesk@gov.sk.ca&#13;
+&#13;
+</reply_to>
+        <subject>${number} - ${short_description}</subject>
+        <sys_class_name>sys_email_client_template</sys_class_name>
+        <sys_created_by>adm.Atiyeht</sys_created_by>
+        <sys_created_on>2018-05-03 21:17:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1e7ff46edb7ddf000124327e9d961993</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>reply-for-customer-service-er</sys_name>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_email_client_template_1e7ff46edb7ddf000124327e9d961993</sys_update_name>
+        <sys_updated_by>adm.Atiyeht</sys_updated_by>
+        <sys_updated_on>2018-05-04 16:53:30</sys_updated_on>
+        <table>x_smoit_enrcsm_case</table>
+    </sys_email_client_template>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>close_notes</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>adm.Atiyeht</sys_created_by>
+        <sys_created_on>2018-04-04 17:59:46</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3d2c364ddbdd134c0124327e9d9619ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>close_notes</sys_name>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_ui_policy_action_3d2c364ddbdd134c0124327e9d9619ab</sys_update_name>
+        <sys_updated_by>adm.Atiyeht</sys_updated_by>
+        <sys_updated_on>2018-04-04 17:59:46</sys_updated_on>
+        <table>x_smoit_enrcsm_case</table>
+        <ui_policy display_value="Close note mandatory when status is Close">a40c724ddbdd134c0124327e9d96198c</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

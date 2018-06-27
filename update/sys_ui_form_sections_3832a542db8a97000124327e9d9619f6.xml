@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="3832a542db8a97000124327e9d9619f6" sys_domain="global" table="sn_customerservice_appointment" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-05-14 20:47:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34326942db8a97000124327e9d961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_appointment" name="sn_customerservice_appointment" sys_domain="global" view="Default view">3832a542db8a97000124327e9d9619f6</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sn_customerservice_appointment" sys_domain="global" view="Default view">70326942db8a97000124327e9d961976</sys_ui_section>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-05-14 20:47:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-05-14 20:47:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc326942db8a97000124327e9d961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_appointment" name="sn_customerservice_appointment" sys_domain="global" view="Default view">3832a542db8a97000124327e9d9619f6</sys_ui_form>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="sn_customerservice_appointment" sys_domain="global" view="Default view">38326942db8a97000124327e9d961977</sys_ui_section>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-05-14 20:47:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-05-14 20:47:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b032a542db8a97000124327e9d9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_appointment" name="sn_customerservice_appointment" sys_domain="global" view="Default view">3832a542db8a97000124327e9d9619f6</sys_ui_form>
+            <sys_ui_section caption="Content" display_value="Content" name="sn_customerservice_appointment" sys_domain="global" view="Default view">7032a542db8a97000124327e9d9619f9</sys_ui_section>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-05-14 20:47:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_customerservice_appointment</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-05-14 20:47:28</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3832a542db8a97000124327e9d9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_customerservice_appointment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3832a542db8a97000124327e9d9619f6</sys_update_name>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-05-14 20:47:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

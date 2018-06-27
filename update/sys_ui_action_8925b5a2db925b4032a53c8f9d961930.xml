@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>case_reopen_incident</action_name>
+        <active>true</active>
+        <client>true</client>
+        <comments/>
+        <condition>!current.u_integration_table.nil() &amp;&amp; current.u_integration_table=='incident' &amp;&amp; current.state == 10 &amp;&amp; (current.iris_state == 'Resolved' || gs.hasRole('admin'))</condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <hint/>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <name>Reopen Incident</name>
+        <onclick>doReopen()</onclick>
+        <order>100</order>
+        <script><![CDATA[function doReopen() {
+	g_form.setMandatory('work_notes',true);
+	gsftSubmit(null, g_form.getFormElement(), 'case_reopen_incident');
+}
+
+if (typeof window === 'undefined') {
+	forceReopen();
+}
+
+function forceReopen() {
+	current.update();
+	var integration = new global.IntegrationHelper();
+	var payload = integration.buildObject(current, ['number','state']);
+	payload.state = 'Reopen';
+	var helper = new global.ERSolveraIntegration();
+	payload = helper.setCurrentUserInfo(payload);
+	
+	integration.createIntegrationStagingRec(current, payload, 'update', 'incident');
+	action.setRedirectURL(current);
+}]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>adm.Marks</sys_created_by>
+        <sys_created_on>2018-05-28 21:43:35</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8925b5a2db925b4032a53c8f9d961930</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Reopen Incident</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_ui_action_8925b5a2db925b4032a53c8f9d961930</sys_update_name>
+        <sys_updated_by>adm.Marks</sys_updated_by>
+        <sys_updated_on>2018-05-29 13:34:00</sys_updated_on>
+        <table>x_smoit_enrcsm_case</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="sn_shn.admin" name="sn_shn.admin">d13b6b6ac372020095ccd02422d3ae83</contains>
+        <role display_value="x_smoit_enrcsm.manager" name="x_smoit_enrcsm.manager">5cb9fc63dbacd3c40124327e9d9619b7</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>adm.Marks</sys_created_by>
+        <sys_created_on>2018-05-01 19:58:52</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>826a5ef5db795b0032a53c8f9d96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_shn.admin.x_smoit_enrcsm.manager</sys_name>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_user_role_contains_826a5ef5db795b0032a53c8f9d96193f</sys_update_name>
+        <sys_updated_by>adm.Marks</sys_updated_by>
+        <sys_updated_on>2018-05-01 19:58:52</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

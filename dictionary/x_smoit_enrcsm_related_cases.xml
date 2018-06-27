@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Related Cases" max_length="40" name="x_smoit_enrcsm_related_cases" type="collection">
+        <element label="Base case" max_length="32" name="base_case" reference="x_smoit_enrcsm_case" type="reference"/>
+        <element label="Related Case" max_length="32" name="related_case" reference="x_smoit_enrcsm_case" type="reference"/>
+        <index name="index">
+            <element name="base_case"/>
+        </index>
+        <index name="index2">
+            <element name="related_case"/>
+        </index>
+    </element>
+</database>

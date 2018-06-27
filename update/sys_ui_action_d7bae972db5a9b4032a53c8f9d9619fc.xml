@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>sysverb_new</action_name>
+        <active>false</active>
+        <client>true</client>
+        <comments>Related Lists</comments>
+        <condition>current.canCreate() &amp;&amp; !RP.getListControl().isOmitNewButton() &amp;&amp; RP.isRelatedList() &amp;&amp; !RP.isManyToMany()</condition>
+        <form_action>false</form_action>
+        <form_button>false</form_button>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <hint/>
+        <list_action>true</list_action>
+        <list_banner_button>true</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <name>New</name>
+        <onclick>createNewCase()</onclick>
+        <order>100</order>
+        <script><![CDATA[function createNewCase() {
+	if (g_form.modified) {
+        alert(new GwtMessage().getMessage('You have unsaved changes. Please save them to continue.'));
+	} else {
+		var query = '/x_smoit_enrcsm_case.do?sys_id=-1&sysparm_view=er_case&sysparm_query=';
+		var subQuery = '';
+		var table = g_form.getTableName();
+		var sysID = g_form.getUniqueValue();
+		
+		if(table == "customer_account") 
+			table = "account";
+		else if(table == "customer_contact") 
+			table = "contact";
+		else if(table == "service_entitlement") 
+			table = "entitlement";
+		else if(table == "alm_hardware" || table == "alm_asset" ||table == "alm_consumable" || table == "alm_license")
+			table = "asset";
+		else if(table == "ast_contract") 
+			table = "contract";
+		else if(table == "service_entitlement") 
+			table = "entitlement";
+		else if(table.search("product_model") != -1)
+			table = "product";
+		if(sysID){
+			if(subQuery.length > 0)
+				subQuery+= "^" + table + "="+ sysID;
+			else
+				subQuery+=  table + "="+ sysID;
+		switch(table){
+			case "x_smoit_enrcsm_case": subQuery+= getParent();break;
+			case "account":  break;
+			case "contact": subQuery+= getAccount();break;
+			case "entitlement": subQuery+= getAccount() + getProduct() + getAsset()+getContract();break;
+			case "contract": subQuery+= getAccount();break;
+			case "asset": subQuery+= getAccount() + getModel();break;
+			case "default": break;
+		 }
+
+		}
+		
+		if(typeof nowapi !== 'undefined') {
+			nowapi.g_navigation.open(query+subQuery);
+		} else {
+			alert(query+encodeURIComponent(subQuery));
+			window.location = (query+encodeURIComponent(subQuery) );  
+			//window.location.replace(query+subQuery);  
+			//window.location.href = window.location.protocol + '//' + window.location.host +query+subQuery;
+		}
+	}
+}
+	
+	function getParent(){
+		var subQuery='^parent=';
+		if(g_list.getListName()=='x_smoit_enrcsm_case.x_smoit_enrcsm_case.parent')
+			subQuery+=g_form.getUniqueValue();
+		return subQuery;
+	}
+	function getAccount(){
+		var subQuery='^account=';
+		if(g_form.getValue('account'))
+			subQuery+=g_form.getValue('account');
+		return subQuery;
+	}
+	function getProduct(){
+		var subQuery='^product=';
+		if(g_form.getValue('product'))
+			subQuery+=g_form.getValue('product');
+		return subQuery;
+	}
+	function getModel(){
+		var subQuery='^product=';
+		if(g_form.getValue('model'))
+			subQuery+=g_form.getValue('model');
+		return subQuery;
+	}
+	function getContract(){	
+		var subQuery='^contract=';
+		if(g_form.getValue('contract'))
+			subQuery+=g_form.getValue('contract');
+		return subQuery; 
+	}
+	function getAsset(){	
+		var subQuery='^asset=';
+		if(g_form.getValue('asset'))
+			subQuery+=g_form.getValue('asset');
+		return subQuery; 
+	}
+	function getEntitlement(){	
+		var subQuery='^entitlement=';
+		if(g_form.getValue('entitlement'))
+			subQuery+=g_form.getValue('entitlement');
+		return subQuery; 
+	}
+]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>adm.elliem</sys_created_by>
+        <sys_created_on>2018-05-29 15:38:19</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d7bae972db5a9b4032a53c8f9d9619fc</sys_id>
+        <sys_mod_count>21</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_ui_action_d7bae972db5a9b4032a53c8f9d9619fc</sys_update_name>
+        <sys_updated_by>adm.Kevinw</sys_updated_by>
+        <sys_updated_on>2018-05-29 16:15:51</sys_updated_on>
+        <table>x_smoit_enrcsm_case</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>true</ui16_compatible>
+    </sys_ui_action>
+</record_update>

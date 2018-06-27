@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>subcategory</field>
+        <global>true</global>
+        <messages/>
+        <name>ER Validate Integration Subcategories</name>
+        <order>100</order>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading || newValue === '') {
+		return;
+	}
+	
+	var cat = g_form.getValue('category');
+	if (cat != 13) {  // Only interested in Service Request/IRIS
+		return;
+	}
+	
+	var cag = g_form.getValue('cag_state');
+	var msg = '';
+	
+	if (cag == 'CAG Scheduled' && (newValue == '42' || newValue == '43')) {  // Only Report App defect & Request for App Enhancement valid if scheduled
+		if (g_scratchpad.iris_support == true) {
+			return;
+		}
+		msg = '"Report App defect" or "Request for App Enhancement" are only avaiable for the IRIS Support team';
+	} else if (cag == '' && newValue != '42' && newValue != '43') {  // Any value except Report App defect & Request for App Enhancement valid if not cag
+		return;
+	} else if (cag == '') {
+		msg = 'You cannot choose "Report App defect" or "Request for App Enhancement" unless the Case has been approved by the CAG!';
+	} else {
+		msg = 'You may only choose "Report App defect" or "Request for App Enhancement" for Cases that are managed by CAG process!';
+	}
+	
+	newValue = oldValue;
+	alert(msg);
+	return false;
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>adm.Marks</sys_created_by>
+        <sys_created_on>2018-05-27 18:53:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d68ffb06db1a97400124327e9d9619bc</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>ER Validate Integration Subcategories</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
+        <sys_update_name>sys_script_client_d68ffb06db1a97400124327e9d9619bc</sys_update_name>
+        <sys_updated_by>adm.Marks</sys_updated_by>
+        <sys_updated_on>2018-05-29 13:41:41</sys_updated_on>
+        <table>x_smoit_enrcsm_case</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
