@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="sys_portal_page" unload_date="2018-06-27 21:27:33">
+<record_update node_type="sys_portal_page" unload_date="2018-06-28 16:59:26">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
         <order/>
@@ -24,7 +24,7 @@
         <sys_updated_by>adm.Marks</sys_updated_by>
         <sys_updated_on>2018-04-23 15:29:58</sys_updated_on>
         <title>My  ECON Knowledge Homepage</title>
-        <user display_value="Mark Sproule">f98d8c7bdbd2c30ca9ba591e5e961989</user>
+        <user display_value="Mark (admin) Sproule">f98d8c7bdbd2c30ca9ba591e5e961989</user>
         <view/>
         <related_items_node>
             <sys_portal action="INSERT_OR_UPDATE">

@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-05-02 20:21:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5f39ab0edbf19f000124327e9d9619ce</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Er_knowledge_management_overview</sys_name>

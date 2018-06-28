@@ -5,7 +5,6 @@
         <can_delegate>true</can_delegate>
         <description>sn_customerservice_agent</description>
         <elevated_privilege>false</elevated_privilege>
-        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_smoit_enrcsm.agent</name>
@@ -13,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-03-05 20:06:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e989782bdb6cd3c40124327e9d96197b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_smoit_enrcsm.agent</sys_name>

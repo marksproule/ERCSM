@@ -13,7 +13,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-05-29 19:11:28</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8d1c52f6db1e9b4032a53c8f9d96196b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_smoit_enrcsm_case.description</sys_name>

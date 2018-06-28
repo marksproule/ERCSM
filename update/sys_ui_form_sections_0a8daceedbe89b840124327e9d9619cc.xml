@@ -10,8 +10,8 @@
             <sys_id>8e8d6426db2c9b840124327e9d961948</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_smoit_enrcsm_case" name="x_smoit_enrcsm_case" sys_domain="global" view="8e9b2261db24570432a53c8f9d96190b">0a8daceedbe89b840124327e9d9619cc</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_smoit_enrcsm_case" sys_domain="global" view="8e9b2261db24570432a53c8f9d96190b">8a8d6426db2c9b840124327e9d961945</sys_ui_section>
+            <sys_ui_form display_value="x_smoit_enrcsm_case" name="x_smoit_enrcsm_case" sys_domain="global" view="875373f4db9e53004bcddbbb5e961902">0a8daceedbe89b840124327e9d9619cc</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_smoit_enrcsm_case" sys_domain="global" view="875373f4db9e53004bcddbbb5e961902">8a8d6426db2c9b840124327e9d961945</sys_ui_section>
             <sys_updated_by>adm.Marks</sys_updated_by>
             <sys_updated_on>2018-03-02 16:40:08</sys_updated_on>
         </sys_ui_form_section>
@@ -24,8 +24,8 @@
             <sys_id>868d6426db2c9b840124327e9d961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_smoit_enrcsm_case" name="x_smoit_enrcsm_case" sys_domain="global" view="8e9b2261db24570432a53c8f9d96190b">0a8daceedbe89b840124327e9d9619cc</sys_ui_form>
-            <sys_ui_section caption="Notes" display_value="Notes" name="x_smoit_enrcsm_case" sys_domain="global" view="8e9b2261db24570432a53c8f9d96190b">868daceedbe89b840124327e9d9619d1</sys_ui_section>
+            <sys_ui_form display_value="x_smoit_enrcsm_case" name="x_smoit_enrcsm_case" sys_domain="global" view="875373f4db9e53004bcddbbb5e961902">0a8daceedbe89b840124327e9d9619cc</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_smoit_enrcsm_case" sys_domain="global" view="875373f4db9e53004bcddbbb5e961902">868daceedbe89b840124327e9d9619d1</sys_ui_section>
             <sys_updated_by>adm.Marks</sys_updated_by>
             <sys_updated_on>2018-03-02 16:40:08</sys_updated_on>
         </sys_ui_form_section>
@@ -38,8 +38,8 @@
             <sys_id>0e8daceedbe89b840124327e9d9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_smoit_enrcsm_case" name="x_smoit_enrcsm_case" sys_domain="global" view="8e9b2261db24570432a53c8f9d96190b">0a8daceedbe89b840124327e9d9619cc</sys_ui_form>
-            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_smoit_enrcsm_case" sys_domain="global" view="8e9b2261db24570432a53c8f9d96190b">8e8daceedbe89b840124327e9d9619ce</sys_ui_section>
+            <sys_ui_form display_value="x_smoit_enrcsm_case" name="x_smoit_enrcsm_case" sys_domain="global" view="875373f4db9e53004bcddbbb5e961902">0a8daceedbe89b840124327e9d9619cc</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_smoit_enrcsm_case" sys_domain="global" view="875373f4db9e53004bcddbbb5e961902">8e8daceedbe89b840124327e9d9619ce</sys_ui_section>
             <sys_updated_by>adm.Marks</sys_updated_by>
             <sys_updated_on>2018-03-02 16:40:08</sys_updated_on>
         </sys_ui_form_section>
@@ -49,7 +49,7 @@
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>adm.Marks</sys_created_by>
             <sys_created_on>2018-03-02 16:40:08</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>0a8daceedbe89b840124327e9d9619cc</sys_id>
@@ -64,7 +64,7 @@
             <sys_updated_by>adm.Marks</sys_updated_by>
             <sys_updated_on>2018-03-02 16:40:08</sys_updated_on>
             <sys_user/>
-            <view display_value="Case" name="case">8e9b2261db24570432a53c8f9d96190b</view>
+            <view display_value="Case" name="case">875373f4db9e53004bcddbbb5e961902</view>
             <view_name/>
         </sys_ui_form>
     </sys_ui_form_sections>

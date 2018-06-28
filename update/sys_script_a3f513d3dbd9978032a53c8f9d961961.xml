@@ -58,7 +58,7 @@ function autoCloseCase() {
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>adm.elliem</sys_created_by>
         <sys_created_on>2018-04-11 19:38:41</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a3f513d3dbd9978032a53c8f9d961961</sys_id>

@@ -5,7 +5,6 @@
         <can_delegate>true</can_delegate>
         <description>User access to tables (e.g. knowledge) - Automatically added to E&amp;R users.</description>
         <elevated_privilege>false</elevated_privilege>
-        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_smoit_enrcsm.user</name>
@@ -13,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-05-02 17:16:34</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d28eb202db759b0032a53c8f9d96193a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_smoit_enrcsm.user</sys_name>

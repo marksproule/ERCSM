@@ -3,63 +3,153 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="sn_shn_notes" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>short_description</element>
-            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">de37dc07c311120095ccd02422d3aebf</list_id>
+            <element>conditions</element>
+            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">40c5c7afdbaa1b40ffdb389f9d9619a8</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-02-05 02:22:06</sys_created_on>
-            <sys_id>9237dc07c311120095ccd02422d3aec0</sys_id>
+            <sys_created_by>cabbott3</sys_created_by>
+            <sys_created_on>2018-06-13 16:24:42</sys_created_on>
+            <sys_id>c8c5c7afdbaa1b40ffdb389f9d9619a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-02-05 02:22:06</sys_updated_on>
+            <sys_updated_by>cabbott3</sys_updated_by>
+            <sys_updated_on>2018-06-13 16:24:42</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>expires_on</element>
-            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">de37dc07c311120095ccd02422d3aebf</list_id>
+            <element>display_type</element>
+            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">40c5c7afdbaa1b40ffdb389f9d9619a8</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-02-05 02:22:06</sys_created_on>
-            <sys_id>d237dc07c311120095ccd02422d3aec0</sys_id>
+            <sys_created_by>cabbott3</sys_created_by>
+            <sys_created_on>2018-06-13 16:24:42</sys_created_on>
+            <sys_id>40c5c7afdbaa1b40ffdb389f9d9619a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-02-05 02:22:06</sys_updated_on>
+            <sys_updated_by>cabbott3</sys_updated_by>
+            <sys_updated_on>2018-06-13 16:24:42</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>priority</element>
-            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">de37dc07c311120095ccd02422d3aebf</list_id>
+            <element>expires_on</element>
+            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">40c5c7afdbaa1b40ffdb389f9d9619a8</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-02-05 02:22:06</sys_created_on>
-            <sys_id>1637dc07c311120095ccd02422d3aec0</sys_id>
+            <sys_created_by>cabbott3</sys_created_by>
+            <sys_created_on>2018-06-13 16:24:42</sys_created_on>
+            <sys_id>c0c5c7afdbaa1b40ffdb389f9d9619a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-02-05 02:22:06</sys_updated_on>
+            <sys_updated_by>cabbott3</sys_updated_by>
+            <sys_updated_on>2018-06-13 16:24:42</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>table</element>
-            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">de37dc07c311120095ccd02422d3aebf</list_id>
+            <element>message</element>
+            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">40c5c7afdbaa1b40ffdb389f9d9619a8</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-02-05 02:22:06</sys_created_on>
-            <sys_id>5637dc07c311120095ccd02422d3aec0</sys_id>
+            <sys_created_by>cabbott3</sys_created_by>
+            <sys_created_on>2018-06-13 16:24:42</sys_created_on>
+            <sys_id>44c5c7afdbaa1b40ffdb389f9d9619a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-02-05 02:22:06</sys_updated_on>
+            <sys_updated_by>cabbott3</sys_updated_by>
+            <sys_updated_on>2018-06-13 16:24:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">40c5c7afdbaa1b40ffdb389f9d9619a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>cabbott3</sys_created_by>
+            <sys_created_on>2018-06-13 16:24:42</sys_created_on>
+            <sys_id>c4c5c7afdbaa1b40ffdb389f9d9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>cabbott3</sys_updated_by>
+            <sys_updated_on>2018-06-13 16:24:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>related_record</element>
+            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">40c5c7afdbaa1b40ffdb389f9d9619a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>cabbott3</sys_created_by>
+            <sys_created_on>2018-06-13 16:24:42</sys_created_on>
+            <sys_id>48c5c7afdbaa1b40ffdb389f9d9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>cabbott3</sys_updated_by>
+            <sys_updated_on>2018-06-13 16:24:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">40c5c7afdbaa1b40ffdb389f9d9619a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>cabbott3</sys_created_by>
+            <sys_created_on>2018-06-13 16:24:42</sys_created_on>
+            <sys_id>c8c5c7afdbaa1b40ffdb389f9d9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>cabbott3</sys_updated_by>
+            <sys_updated_on>2018-06-13 16:24:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">40c5c7afdbaa1b40ffdb389f9d9619a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>cabbott3</sys_created_by>
+            <sys_created_on>2018-06-13 16:24:42</sys_created_on>
+            <sys_id>4cc5c7afdbaa1b40ffdb389f9d9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>cabbott3</sys_updated_by>
+            <sys_updated_on>2018-06-13 16:24:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>table</element>
+            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">40c5c7afdbaa1b40ffdb389f9d9619a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>cabbott3</sys_created_by>
+            <sys_created_on>2018-06-13 16:24:42</sys_created_on>
+            <sys_id>ccc5c7afdbaa1b40ffdb389f9d9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>cabbott3</sys_updated_by>
+            <sys_updated_on>2018-06-13 16:24:42</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>table_name</element>
+            <list_id display_value="sn_shn_notes" element="NULL" name="sn_shn_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">40c5c7afdbaa1b40ffdb389f9d9619a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>cabbott3</sys_created_by>
+            <sys_created_on>2018-06-13 16:24:42</sys_created_on>
+            <sys_id>40c5c7afdbaa1b40ffdb389f9d9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>cabbott3</sys_updated_by>
+            <sys_updated_on>2018-06-13 16:24:42</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -74,7 +164,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>adm.elliem</sys_created_by>
             <sys_created_on>2018-05-29 19:04:07</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c16a1636db1e9b4032a53c8f9d96194b</sys_id>
@@ -87,7 +177,7 @@
             <sys_update_name>sys_ui_list_sn_shn_notes_null</sys_update_name>
             <sys_updated_by>adm.elliem</sys_updated_by>
             <sys_updated_on>2018-05-29 19:04:07</sys_updated_on>
-            <sys_user display_value="Ellie Moqadam">db4da78adb4d9bc80124327e9d961904</sys_user>
+            <sys_user display_value="">db4da78adb4d9bc80124327e9d961904</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>adm.Marks</sys_created_by>
             <sys_created_on>2018-03-02 16:31:18</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>348b68aedbe89b840124327e9d9619f5</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_name>ER Case</sys_name>

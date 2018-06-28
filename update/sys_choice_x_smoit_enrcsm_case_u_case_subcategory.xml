@@ -10,14 +10,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:51:46</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>dcd72dbedbbd13400124327e9d96199f</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:43:13</sys_updated_on>
+            <sys_id>c7dc2175dba25f00ffdb389f9d96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -29,14 +29,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:51:58</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5fd761fedbbd13400124327e9d96191f</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:42:19</sys_updated_on>
+            <sys_id>8bdc2175dba25f00ffdb389f9d96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>11</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -48,14 +48,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:52:03</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>28e721fedbbd13400124327e9d96195f</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:42:18</sys_updated_on>
+            <sys_id>cbdc2175dba25f00ffdb389f9d96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>12</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -67,14 +67,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:52:35</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5c08a1fedbbd13400124327e9d9619e9</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:42:36</sys_updated_on>
+            <sys_id>0fdc2175dba25f00ffdb389f9d96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>17</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -86,14 +86,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:52:52</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a41865fedbbd13400124327e9d9619d7</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:43:32</sys_updated_on>
+            <sys_id>87dc2175dba25f00ffdb389f9d96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -105,14 +105,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:54:25</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9f68e9fedbbd13400124327e9d961935</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:44:04</sys_updated_on>
+            <sys_id>47dc2175dba25f00ffdb389f9d96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -124,14 +124,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:55:24</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f5a8edfedbbd13400124327e9d9619dc</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:43:28</sys_updated_on>
+            <sys_id>0bdc2175dba25f00ffdb389f9d96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>4</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -143,14 +143,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:55:40</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>25b8edfedbbd13400124327e9d9619c6</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:42:36</sys_updated_on>
+            <sys_id>4fdc2175dba25f00ffdb389f9d96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>42</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -162,14 +162,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:55:46</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>87b8edfedbbd13400124327e9d961997</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:42:35</sys_updated_on>
+            <sys_id>8fdc2175dba25f00ffdb389f9d96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>43</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -181,14 +181,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:55:57</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e9c86132dbfd13400124327e9d961925</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:42:36</sys_updated_on>
+            <sys_id>cfdc2175dba25f00ffdb389f9d96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>44</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -200,14 +200,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:56:04</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1fc86132dbfd13400124327e9d961935</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:42:36</sys_updated_on>
+            <sys_id>03dc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>45</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -219,14 +219,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:56:09</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f4d82132dbfd13400124327e9d9619a7</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:42:35</sys_updated_on>
+            <sys_id>43dc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>46</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -238,34 +238,15 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:58:34</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>0c69a932dbfd13400124327e9d961956</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-16 15:42:35</sys_updated_on>
+            <sys_id>4bdc2175dba25f00ffdb389f9d96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>9</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_case_subcategory</element>
-            <hint/>
-            <inactive>true</inactive>
-            <label>Question</label>
-            <language>en</language>
-            <name>x_smoit_enrcsm_case</name>
-            <sequence>0</sequence>
-            <sys_created_by>adm.elliem</sys_created_by>
-            <sys_created_on>2018-04-26 14:33:34</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>4400a74cdbb597000124327e9d961909</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-04 18:51:13</sys_updated_on>
-            <value>Question</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>10</dependent_value>
@@ -276,14 +257,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>1</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:51:39</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>36c76dbedbbd13400124327e9d9619e3</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:41:57</sys_updated_on>
+            <sys_id>83dc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>0</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -295,14 +276,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>1</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:52:08</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b9e721fedbbd13400124327e9d961972</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:33</sys_updated_on>
+            <sys_id>07dc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>13</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -314,14 +295,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>1</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:52:27</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2ef761fedbbd13400124327e9d961987</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:44:52</sys_updated_on>
+            <sys_id>47dc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>16</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -333,14 +314,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>1</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:53:02</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>cb18a5fedbbd13400124327e9d9619f3</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:43:18</sys_updated_on>
+            <sys_id>87dc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>21</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -352,14 +333,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>1</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:54:10</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>eb5829fedbbd13400124327e9d9619ff</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:22</sys_updated_on>
+            <sys_id>c7dc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>27</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -371,14 +352,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>1</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:55:29</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>47a82132dbfd13400124327e9d961986</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:41:30</sys_updated_on>
+            <sys_id>0bdc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>40</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -390,14 +371,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>1</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:55:35</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>50b86dfedbbd13400124327e9d9619f2</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:43:36</sys_updated_on>
+            <sys_id>4bdc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>41</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -409,14 +390,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>1</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:56:33</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>aee82532dbfd13400124327e9d961911</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:44:12</sys_updated_on>
+            <sys_id>c3dc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>5</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -428,14 +409,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>1</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:57:40</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b229a532dbfd13400124327e9d961968</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:43:08</sys_updated_on>
+            <sys_id>8bdc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>60</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -447,14 +428,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>2</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:52:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>dbe7e9bedbbd13400124327e9d961985</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:37</sys_updated_on>
+            <sys_id>0fdc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>14</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -466,14 +447,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>2</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:52:40</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ad08e1fedbbd13400124327e9d961964</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:44:55</sys_updated_on>
+            <sys_id>4fdc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>18</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -485,14 +466,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>2</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:53:07</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d82865fedbbd13400124327e9d9619de</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:01</sys_updated_on>
+            <sys_id>8fdc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>22</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -504,34 +485,15 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>2</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:55:08</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e998adfedbbd13400124327e9d9619ce</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:43:11</sys_updated_on>
+            <sys_id>cfdc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>37</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value>2</dependent_value>
-            <element>u_case_subcategory</element>
-            <hint/>
-            <inactive>true</inactive>
-            <label>Revenue</label>
-            <language>en</language>
-            <name>x_smoit_enrcsm_case</name>
-            <sequence>2</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:56:15</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>0ad86132dbfd13400124327e9d9619da</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:43:22</sys_updated_on>
-            <value>47</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>4</dependent_value>
@@ -542,14 +504,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>2</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:56:38</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3fe8e132dbfd13400124327e9d961994</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:43:38</sys_updated_on>
+            <sys_id>03dc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>50</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -561,14 +523,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>2</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:56:44</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8df86132dbfd13400124327e9d9619a6</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:25</sys_updated_on>
+            <sys_id>43dc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>51</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -580,14 +542,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>2</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:56:49</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>62f8e132dbfd13400124327e9d961974</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:41:34</sys_updated_on>
+            <sys_id>83dc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>52</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -599,14 +561,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>2</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:58:26</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4259e532dbfd13400124327e9d9619a6</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:44:19</sys_updated_on>
+            <sys_id>cbdc2175dba25f00ffdb389f9d961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>8</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -618,14 +580,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>3</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:51:52</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c6d721fedbbd13400124327e9d961959</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:44:24</sys_updated_on>
+            <sys_id>c3dc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>10</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -637,14 +599,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>3</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:52:46</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>030861fedbbd13400124327e9d9619ae</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:44:59</sys_updated_on>
+            <sys_id>07dc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>19</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -656,14 +618,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>3</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:53:11</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>952829fedbbd13400124327e9d96195d</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:04</sys_updated_on>
+            <sys_id>47dc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>23</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -675,14 +637,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>3</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:54:15</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b068e9fedbbd13400124327e9d961916</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:40</sys_updated_on>
+            <sys_id>87dc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>28</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -694,14 +656,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>3</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:54:37</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4678a9fedbbd13400124327e9d961969</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:28</sys_updated_on>
+            <sys_id>c7dc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>31</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -713,14 +675,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>3</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:56:22</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f7d8e132dbfd13400124327e9d961989</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:43:25</sys_updated_on>
+            <sys_id>0bdc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>48</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -732,14 +694,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>3</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:56:56</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8c092532dbfd13400124327e9d9619e6</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:41:36</sys_updated_on>
+            <sys_id>4bdc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>53</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -751,14 +713,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>3</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:57:19</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>65192532dbfd13400124327e9d9619af</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:43:41</sys_updated_on>
+            <sys_id>8bdc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>57</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -770,14 +732,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>4</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:52:21</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b0f7a1fedbbd13400124327e9d9619e3</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:44:28</sys_updated_on>
+            <sys_id>0fdc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>15</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -789,14 +751,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>4</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:52:57</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3d1865fedbbd13400124327e9d9619c2</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:45:03</sys_updated_on>
+            <sys_id>4fdc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>20</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -808,14 +770,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>4</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:53:16</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6228a5fedbbd13400124327e9d9619aa</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:08</sys_updated_on>
+            <sys_id>8fdc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>24</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -827,14 +789,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>4</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:55:14</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9f986dfedbbd13400124327e9d961989</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:43</sys_updated_on>
+            <sys_id>cfdc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>38</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -846,14 +808,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>4</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:57:30</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5829a532dbfd13400124327e9d9619fc</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:41:41</sys_updated_on>
+            <sys_id>03dc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>59</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -865,14 +827,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>4</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:57:35</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a1296532dbfd13400124327e9d9619d8</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:43:27</sys_updated_on>
+            <sys_id>cbdc2175dba25f00ffdb389f9d961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>6</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -884,34 +846,15 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>4</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:58:01</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3b392932dbfd13400124327e9d96193a</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:43:43</sys_updated_on>
+            <sys_id>43dc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>63</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value>10</dependent_value>
-            <element>u_case_subcategory</element>
-            <hint/>
-            <inactive>true</inactive>
-            <label>Mineral Trust</label>
-            <language>en</language>
-            <name>x_smoit_enrcsm_case</name>
-            <sequence>5</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:53:28</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>9d38a5fedbbd13400124327e9d96197d</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:11</sys_updated_on>
-            <value>24</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>8</dependent_value>
@@ -922,14 +865,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>5</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:53:36</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5b3869fedbbd13400124327e9d9619ec</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:45:05</sys_updated_on>
+            <sys_id>c3dc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>25</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -941,14 +884,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>5</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:54:01</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9d5829fedbbd13400124327e9d961937</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:44:31</sys_updated_on>
+            <sys_id>07dc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>26</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -960,14 +903,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>5</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:54:30</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e4782dfedbbd13400124327e9d9619f1</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:41:45</sys_updated_on>
+            <sys_id>87dc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>30</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -979,14 +922,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>5</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:54:46</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>60882dfedbbd13400124327e9d9619be</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:46:35</sys_updated_on>
+            <sys_id>47dc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>33</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -998,14 +941,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>5</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:56:27</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>cde8e132dbfd13400124327e9d9619ba</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:45</sys_updated_on>
+            <sys_id>c7dc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>49</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1017,14 +960,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>5</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:58:19</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1c596932dbfd13400124327e9d9619fe</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:43:30</sys_updated_on>
+            <sys_id>83dc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>7</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1036,14 +979,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>6</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:54:42</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>13786dfedbbd13400124327e9d961945</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:46:06</sys_updated_on>
+            <sys_id>0bdc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>32</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1055,14 +998,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>6</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:55:19</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>dca8adfedbbd13400124327e9d961989</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:45:08</sys_updated_on>
+            <sys_id>4bdc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>39</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1074,14 +1017,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>6</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:57:02</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ed092532dbfd13400124327e9d961942</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:14</sys_updated_on>
+            <sys_id>8bdc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>54</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1093,14 +1036,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>6</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:57:13</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>dc196532dbfd13400124327e9d9619eb</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:49</sys_updated_on>
+            <sys_id>cbdc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>56</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1112,14 +1055,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>6</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:58:06</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1d49e532dbfd13400124327e9d961950</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:44:38</sys_updated_on>
+            <sys_id>0fdc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>64</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1131,14 +1074,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>7</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:54:57</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>87882dfedbbd13400124327e9d9619c7</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:17</sys_updated_on>
+            <sys_id>8fdc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>35</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1150,14 +1093,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>7</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:55:03</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>20986dfedbbd13400124327e9d961982</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:44:41</sys_updated_on>
+            <sys_id>4fdc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>36</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1169,14 +1112,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>7</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:57:07</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3a092532dbfd13400124327e9d9619d9</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:45:12</sys_updated_on>
+            <sys_id>cfdc2175dba25f00ffdb389f9d961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>55</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1188,14 +1131,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>7</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:57:24</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>0f19a532dbfd13400124327e9d961974</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:51</sys_updated_on>
+            <sys_id>03dc2175dba25f00ffdb389f9d961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>58</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1207,14 +1150,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>8</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:54:51</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f1886dfedbbd13400124327e9d96194e</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:42:58</sys_updated_on>
+            <sys_id>43dc2175dba25f00ffdb389f9d961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>34</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1226,14 +1169,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>8</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:57:45</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1c392932dbfd13400124327e9d961970</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:45:15</sys_updated_on>
+            <sys_id>83dc2175dba25f00ffdb389f9d961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>61</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1245,14 +1188,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>9</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:57:52</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f139e532dbfd13400124327e9d9619fd</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:45:18</sys_updated_on>
+            <sys_id>c3dc2175dba25f00ffdb389f9d961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>62</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -1264,33 +1207,33 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence>10</sequence>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-04 18:54:20</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>0e6869fedbbd13400124327e9d96191e</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:47:19</sys_updated_on>
+            <sys_id>07dc2175dba25f00ffdb389f9d961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>29</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_case_subcategory</element>
             <name>x_smoit_enrcsm_case</name>
             <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>adm.elliem</sys_created_by>
-            <sys_created_on>2018-04-26 14:33:34</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>0400a74cdbb597000124327e9d96190b</sys_id>
-            <sys_mod_count>196</sys_mod_count>
+            <sys_id>0bdc2175dba25f00ffdb389f9d961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>u_case_subcategory</sys_name>
             <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
             <sys_update_name>sys_choice_x_smoit_enrcsm_case_u_case_subcategory</sys_update_name>
-            <sys_updated_by>adm.elliem</sys_updated_by>
-            <sys_updated_on>2018-05-24 13:47:20</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

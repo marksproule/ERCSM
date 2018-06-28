@@ -41,7 +41,7 @@ var parent_case = new GlideRecord ('x_smoit_enrcsm_case' );
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>adm.Atiyeht</sys_created_by>
         <sys_created_on>2018-04-05 16:06:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2a8bab19db1d534c0124327e9d9619b6</sys_id>

@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-05-04 16:35:51</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>55a8c572dbf91f0032a53c8f9d961964</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_smoit_enrcsm_parent_case.partner</sys_name>

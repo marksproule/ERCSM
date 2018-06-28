@@ -16,7 +16,7 @@
         <sys_class_name>sys_email_client_template</sys_class_name>
         <sys_created_by>adm.Atiyeht</sys_created_by>
         <sys_created_on>2018-05-03 21:17:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1e7ff46edb7ddf000124327e9d961993</sys_id>
         <sys_mod_count>10</sys_mod_count>
         <sys_name>reply-for-customer-service-er</sys_name>

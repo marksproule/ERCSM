@@ -11,7 +11,7 @@
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>adm.Atiyeht</sys_created_by>
         <sys_created_on>2018-05-01 15:07:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9b9711f5db751f000124327e9d9619b2</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>glide.ui.x_smoit_enrcsm_case_activity.fields</sys_name>

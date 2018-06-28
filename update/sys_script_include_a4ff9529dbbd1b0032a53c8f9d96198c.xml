@@ -14,8 +14,6 @@ ERContactUtils.prototype = {
 		this.ba = gs.getProperty(this.MINISTRYBA_PROPERTY, this.MINISTRYBA);
     },
 	
-	DEBUG : false,
-	
 	SYSUSER : 'sys_user',
 	CONTACT : 'customer_contact',
 	MINISTRY : '073f4bd9db7df244c7d33c00ad961916',     // Energy and Resources
@@ -27,27 +25,16 @@ ERContactUtils.prototype = {
 	CONTACT_CLASS : 'customer_contact',
 	USER_CLASS : 'sys_user',
 	
-	convertUserToAccount : function(user, force) {
-		force = (force == null) ? false : force;
-		if (this.canConvert(user)  || force == true) {
-			if (this.DEBUG) {
-				gs.info('x_smoit_enrcsm.ERContactUtils.convertUserToAccount('+user.getDisplayValue()+', '+force+') sys_class_name = '+user.sys_class_name);
-			}
-			var sysid = user.getUniqueValue();
-// 			if (force) {
-// 				user.sys_class_name = this.USER_CLASS;
-// 				user.update();
-// 			}
+	convertUserToAccount : function(user) {
+		if (this.canConvert(user)) {
 			user.sys_class_name = this.CONTACT_CLASS;
 			user.update();
 			var rec = new GlideRecord(this.CONTACT_CLASS);
-			if (rec.get(sysid)) {
+			if (rec.get(user.getUniqueValue())) {
 				rec.account = this.ba;
 				rec.update();
 				this.addRoleToUser(rec, this.USER_ROLE);
 				return true;
-			} else if (this.DEBUG) {
-				gs.info('x_smoit_enrcsm.ERContactUtils.convertUserToAccount unable to get record '+sysid+' from table '+this.CONTACT_CLASS);
 			}
 		}
 		return false;
@@ -85,9 +72,9 @@ ERContactUtils.prototype = {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-04-30 21:05:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a4ff9529dbbd1b0032a53c8f9d96198c</sys_id>
-        <sys_mod_count>24</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>ERContactUtils</sys_name>
         <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
         <sys_policy>read</sys_policy>
@@ -95,6 +82,6 @@ ERContactUtils.prototype = {
         <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
         <sys_update_name>sys_script_include_a4ff9529dbbd1b0032a53c8f9d96198c</sys_update_name>
         <sys_updated_by>adm.Marks</sys_updated_by>
-        <sys_updated_on>2018-06-26 22:33:24</sys_updated_on>
+        <sys_updated_on>2018-05-02 17:38:49</sys_updated_on>
     </sys_script_include>
 </record_update>

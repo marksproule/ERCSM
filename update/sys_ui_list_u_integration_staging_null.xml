@@ -3,93 +3,153 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="u_integration_staging" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_number</element>
-            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7a9587e6db8e1b000124327e9d961998</list_id>
+            <element>u_command</element>
+            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5db542f5dbe21380c7d33c00ad96193f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>adm.Atiyeht</sys_created_by>
-            <sys_created_on>2018-05-16 17:18:44</sys_created_on>
-            <sys_id>fe9587e6db8e1b000124327e9d961998</sys_id>
+            <sys_created_on>2018-06-08 01:15:30</sys_created_on>
+            <sys_id>59b542f5dbe21380c7d33c00ad961940</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
-            <sys_updated_on>2018-05-16 17:18:44</sys_updated_on>
+            <sys_updated_on>2018-06-08 01:15:30</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_command</element>
-            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7a9587e6db8e1b000124327e9d961998</list_id>
+            <element>u_comment</element>
+            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5db542f5dbe21380c7d33c00ad96193f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>adm.Atiyeht</sys_created_by>
-            <sys_created_on>2018-05-16 17:18:44</sys_created_on>
-            <sys_id>729587e6db8e1b000124327e9d961999</sys_id>
+            <sys_created_on>2018-06-08 01:15:30</sys_created_on>
+            <sys_id>51b542f5dbe21380c7d33c00ad961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
-            <sys_updated_on>2018-05-16 17:18:44</sys_updated_on>
+            <sys_updated_on>2018-06-08 01:15:30</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_json</element>
-            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7a9587e6db8e1b000124327e9d961998</list_id>
+            <element>u_integration_staging_reference_id</element>
+            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5db542f5dbe21380c7d33c00ad96193f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>adm.Atiyeht</sys_created_by>
-            <sys_created_on>2018-05-16 17:18:44</sys_created_on>
-            <sys_id>f29587e6db8e1b000124327e9d961999</sys_id>
+            <sys_created_on>2018-06-08 01:15:30</sys_created_on>
+            <sys_id>d1b542f5dbe21380c7d33c00ad961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
-            <sys_updated_on>2018-05-16 17:18:44</sys_updated_on>
+            <sys_updated_on>2018-06-08 01:15:30</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_payload</element>
-            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7a9587e6db8e1b000124327e9d961998</list_id>
+            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5db542f5dbe21380c7d33c00ad96193f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>adm.Atiyeht</sys_created_by>
-            <sys_created_on>2018-05-16 17:18:44</sys_created_on>
-            <sys_id>769587e6db8e1b000124327e9d961999</sys_id>
+            <sys_created_on>2018-06-08 01:15:30</sys_created_on>
+            <sys_id>55b542f5dbe21380c7d33c00ad961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
-            <sys_updated_on>2018-05-16 17:18:44</sys_updated_on>
+            <sys_updated_on>2018-06-08 01:15:30</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_success</element>
-            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7a9587e6db8e1b000124327e9d961998</list_id>
+            <element>u_source_instance</element>
+            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5db542f5dbe21380c7d33c00ad96193f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>adm.Atiyeht</sys_created_by>
-            <sys_created_on>2018-05-16 17:18:44</sys_created_on>
-            <sys_id>f69587e6db8e1b000124327e9d961999</sys_id>
+            <sys_created_on>2018-06-08 01:15:30</sys_created_on>
+            <sys_id>d5b542f5dbe21380c7d33c00ad961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
-            <sys_updated_on>2018-05-16 17:18:44</sys_updated_on>
+            <sys_updated_on>2018-06-08 01:15:30</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_target_table</element>
-            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7a9587e6db8e1b000124327e9d961998</list_id>
+            <element>u_source_record</element>
+            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5db542f5dbe21380c7d33c00ad96193f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>adm.Atiyeht</sys_created_by>
-            <sys_created_on>2018-05-16 17:18:44</sys_created_on>
-            <sys_id>7a9587e6db8e1b000124327e9d961999</sys_id>
+            <sys_created_on>2018-06-08 01:15:30</sys_created_on>
+            <sys_id>59b542f5dbe21380c7d33c00ad961941</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
-            <sys_updated_on>2018-05-16 17:18:44</sys_updated_on>
+            <sys_updated_on>2018-06-08 01:15:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_source_record_sys_id</element>
+            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5db542f5dbe21380c7d33c00ad96193f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-06-08 01:15:30</sys_created_on>
+            <sys_id>d9b542f5dbe21380c7d33c00ad961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-06-08 01:15:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_source_table</element>
+            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5db542f5dbe21380c7d33c00ad96193f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-06-08 01:15:30</sys_created_on>
+            <sys_id>5db542f5dbe21380c7d33c00ad961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-06-08 01:15:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_success_code</element>
+            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5db542f5dbe21380c7d33c00ad96193f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-06-08 01:15:30</sys_created_on>
+            <sys_id>ddb542f5dbe21380c7d33c00ad961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-06-08 01:15:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_target_instance</element>
+            <list_id display_value="u_integration_staging" element="NULL" name="u_integration_staging" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5db542f5dbe21380c7d33c00ad96193f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-06-08 01:15:30</sys_created_on>
+            <sys_id>51b542f5dbe21380c7d33c00ad961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-06-08 01:15:30</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -104,7 +164,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>adm.Marks</sys_created_by>
             <sys_created_on>2018-05-25 22:38:26</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>e115a6e9db5a17400124327e9d96197a</sys_id>
@@ -117,7 +177,7 @@
             <sys_update_name>sys_ui_list_u_integration_staging_null</sys_update_name>
             <sys_updated_by>adm.Marks</sys_updated_by>
             <sys_updated_on>2018-05-25 22:38:26</sys_updated_on>
-            <sys_user display_value="Mark Sproule">f98d8c7bdbd2c30ca9ba591e5e961989</sys_user>
+            <sys_user display_value="Mark (admin) Sproule">f98d8c7bdbd2c30ca9ba591e5e961989</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

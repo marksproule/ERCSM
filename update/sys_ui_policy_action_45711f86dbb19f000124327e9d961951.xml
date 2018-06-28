@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-05-02 18:38:05</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>45711f86dbb19f000124327e9d961951</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>subcategory</sys_name>

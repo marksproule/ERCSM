@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>adm.elliem</sys_created_by>
         <sys_created_on>2018-04-12 17:30:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4142c03fdb515b4c0124327e9d96193c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>cmn_schedule</sys_name>

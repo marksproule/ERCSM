@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-03-02 16:39:47</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4d6d6462db2c9b840124327e9d9619dc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_smoit_enrcsm_case.admin</sys_name>

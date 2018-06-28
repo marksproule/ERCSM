@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-05-18 18:45:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>60bc2513db421f000124327e9d961946</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_integrationid</sys_name>

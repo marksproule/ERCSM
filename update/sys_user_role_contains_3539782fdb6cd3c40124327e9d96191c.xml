@@ -6,7 +6,7 @@
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-03-05 20:05:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3539782fdb6cd3c40124327e9d96191c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sn_customerservice.customer.x_smoit_enrcsm.user</sys_name>

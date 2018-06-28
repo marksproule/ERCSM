@@ -17,11 +17,11 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Case" name="sn_customerservice_case">bd5a6665dbe0570432a53c8f9d9619bc</super_class>
+        <super_class display_value="Case" name="sn_customerservice_case">8df629b9db225f00ffdb389f9d96190a</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-03-02 16:31:17</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e4ca642edbe89b840124327e9d9619e5</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>ER Case</sys_name>

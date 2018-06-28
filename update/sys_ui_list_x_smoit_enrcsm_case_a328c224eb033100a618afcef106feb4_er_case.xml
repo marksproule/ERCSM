@@ -164,7 +164,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>adm.Marks</sys_created_by>
             <sys_created_on>2018-05-03 20:25:52</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9dc3f4eedb75db0032a53c8f9d96198a</sys_id>

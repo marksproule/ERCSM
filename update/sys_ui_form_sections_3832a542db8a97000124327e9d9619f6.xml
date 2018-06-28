@@ -11,7 +11,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sn_customerservice_appointment" name="sn_customerservice_appointment" sys_domain="global" view="Default view">3832a542db8a97000124327e9d9619f6</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="sn_customerservice_appointment" sys_domain="global" view="Default view">70326942db8a97000124327e9d961976</sys_ui_section>
+            <sys_ui_section display_value="">70326942db8a97000124327e9d961976</sys_ui_section>
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
             <sys_updated_on>2018-05-14 20:47:28</sys_updated_on>
         </sys_ui_form_section>
@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sn_customerservice_appointment" name="sn_customerservice_appointment" sys_domain="global" view="Default view">3832a542db8a97000124327e9d9619f6</sys_ui_form>
-            <sys_ui_section caption="Configuration" display_value="Configuration" name="sn_customerservice_appointment" sys_domain="global" view="Default view">38326942db8a97000124327e9d961977</sys_ui_section>
+            <sys_ui_section display_value="">38326942db8a97000124327e9d961977</sys_ui_section>
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
             <sys_updated_on>2018-05-14 20:47:28</sys_updated_on>
         </sys_ui_form_section>
@@ -39,7 +39,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sn_customerservice_appointment" name="sn_customerservice_appointment" sys_domain="global" view="Default view">3832a542db8a97000124327e9d9619f6</sys_ui_form>
-            <sys_ui_section caption="Content" display_value="Content" name="sn_customerservice_appointment" sys_domain="global" view="Default view">7032a542db8a97000124327e9d9619f9</sys_ui_section>
+            <sys_ui_section display_value="">7032a542db8a97000124327e9d9619f9</sys_ui_section>
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
             <sys_updated_on>2018-05-14 20:47:28</sys_updated_on>
         </sys_ui_form_section>
@@ -49,7 +49,7 @@
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>adm.Atiyeht</sys_created_by>
             <sys_created_on>2018-05-14 20:47:28</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>3832a542db8a97000124327e9d9619f6</sys_id>

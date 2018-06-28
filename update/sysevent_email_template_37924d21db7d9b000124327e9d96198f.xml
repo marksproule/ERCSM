@@ -15,7 +15,7 @@
         <sys_class_name>sysevent_email_template</sys_class_name>
         <sys_created_by>adm.Atiyeht</sys_created_by>
         <sys_created_on>2018-04-30 18:57:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>37924d21db7d9b000124327e9d96198f</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>er.case.resolved.for.customer</sys_name>

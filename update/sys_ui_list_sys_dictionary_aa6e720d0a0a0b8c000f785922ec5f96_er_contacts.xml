@@ -119,7 +119,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>adm.elliem</sys_created_by>
             <sys_created_on>2018-04-25 17:56:34</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>40e483bfdba957000124327e9d9619db</sys_id>
@@ -132,7 +132,7 @@
             <sys_update_name>sys_ui_list_sys_dictionary_aa6e720d0a0a0b8c000f785922ec5f96_er_contacts</sys_update_name>
             <sys_updated_by>adm.elliem</sys_updated_by>
             <sys_updated_on>2018-04-25 17:56:34</sys_updated_on>
-            <sys_user display_value="Ellie Moqadam">db4da78adb4d9bc80124327e9d961904</sys_user>
+            <sys_user display_value="Ellie Moqadam">3d1c9083dba65f80c7d33c00ad9619b9</sys_user>
             <view display_value="ER Contacts" name="er_contacts">ded0c057db099b0032a53c8f9d961922</view>
             <view_name/>
         </sys_ui_list>

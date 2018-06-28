@@ -34,7 +34,7 @@
         <sys_class_name>sys_email_layout</sys_class_name>
         <sys_created_by>adm.Atiyeht</sys_created_by>
         <sys_created_on>2018-04-30 18:27:15</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7b9b382ddb3d9b000124327e9d961973</sys_id>
         <sys_mod_count>11</sys_mod_count>
         <sys_name>ER Outbound Email Template</sys_name>

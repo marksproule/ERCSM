@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>adm.eldons</sys_created_by>
         <sys_created_on>2018-04-27 18:30:39</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f6df1524dbf9170032a53c8f9d9619df</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>CSManagementUtils</sys_name>

@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>adm.Atiyeht</sys_created_by>
         <sys_created_on>2018-04-03 20:44:52</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0368d238db11134c0124327e9d9619ea</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sys_popup,enr_case_task</sys_name>

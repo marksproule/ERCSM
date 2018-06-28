@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>adm.Atiyeht</sys_created_by>
         <sys_created_on>2018-04-04 20:04:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b0c8db0ddb51534c0124327e9d961990</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sys_created_by</sys_name>

@@ -69,7 +69,7 @@ AutoCloseCase.prototype = {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>adm.elliem</sys_created_by>
         <sys_created_on>2018-04-04 20:10:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e489d741dbd1db4032a53c8f9d9619f3</sys_id>
         <sys_mod_count>26</sys_mod_count>
         <sys_name>AutoCloseCase</sys_name>

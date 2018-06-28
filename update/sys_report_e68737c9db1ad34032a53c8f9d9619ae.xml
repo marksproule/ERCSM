@@ -88,7 +88,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>adm.elliem</sys_created_by>
         <sys_created_on>2018-05-24 15:21:42</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e68737c9db1ad34032a53c8f9d9619ae</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Active Case by Assignment Group</sys_name>

@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-04-30 21:01:24</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d82f1129dbbd1b0032a53c8f9d961944</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sys_user</sys_name>

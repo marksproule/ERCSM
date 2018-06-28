@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client" audit="true" extends="sn_customerservice_case" label="ER Case" max_length="40" name="x_smoit_enrcsm_case" sizeclass="373" type="collection">
+    <element attributes="email_client" audit="true" extends="sn_customerservice_case" label="ER Case" max_length="40" name="x_smoit_enrcsm_case" sizeclass="17" type="collection">
         <element choice="1" label="IRIS Business Area" max_length="40" name="business_area" type="string">
             <choice>
                 <element label="Audit Revenue Management" sequence="1" value="audit_revenue_management"/>
@@ -92,10 +92,10 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_case_category" dependent_on_field="u_case_category" label="Closure Subcategory" max_length="40" name="u_case_subcategory" type="string" use_dependent_field="true">
             <choice>
+                <element dependent_value="7" label="All" value="4"/>
                 <element dependent_value="3" label="All" value="3"/>
                 <element dependent_value="6" label="All" value="2"/>
                 <element dependent_value="9" label="All" value="1"/>
-                <element dependent_value="7" label="All" value="4"/>
                 <element dependent_value="13" label="Create Incident" value="9"/>
                 <element dependent_value="14" label="Data Fix" value="11"/>
                 <element dependent_value="14" label="Enhancement" value="12"/>

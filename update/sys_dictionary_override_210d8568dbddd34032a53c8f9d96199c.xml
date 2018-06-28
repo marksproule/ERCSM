@@ -22,7 +22,7 @@
         <sys_class_name>sys_dictionary_override</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-04-02 20:37:26</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>210d8568dbddd34032a53c8f9d96199c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>contact_type</sys_name>

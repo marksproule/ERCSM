@@ -6,7 +6,7 @@
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-05-16 16:13:13</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4396f6aadbca5b0032a53c8f9d961917</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>report_group.x_smoit_enrcsm.manager</sys_name>

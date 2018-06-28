@@ -18,7 +18,7 @@ ERCSEMailUtil.prototype = {
 	
 	isERServiceDeskEmail : function(emailTo) {
 		var emails = gs.getProperty('x_smoit_enrcsm.er_servicedesk_emails');
-		var emailAddresses = emailTo.replace(/\;/g,',').split(',');
+		var emailAddresses = emailTo.split(';');
 		for (var ii = 0 ; ii < emailAddresses.length ; ii++) {
 			if (emails.indexOf(';'+emailAddresses[ii]+';') > -1) {
 				return true;
@@ -138,7 +138,7 @@ ERCSEMailUtil.prototype = {
         <sys_created_on>2018-05-01 21:00:20</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>f838263ddbb91f000124327e9d9619a4</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>ERCSEMailUtil</sys_name>
         <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
         <sys_policy>read</sys_policy>
@@ -146,6 +146,6 @@ ERCSEMailUtil.prototype = {
         <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
         <sys_update_name>sys_script_include_f838263ddbb91f000124327e9d9619a4</sys_update_name>
         <sys_updated_by>adm.Marks</sys_updated_by>
-        <sys_updated_on>2018-06-27 20:41:22</sys_updated_on>
+        <sys_updated_on>2018-06-27 18:10:17</sys_updated_on>
     </sys_script_include>
 </record_update>

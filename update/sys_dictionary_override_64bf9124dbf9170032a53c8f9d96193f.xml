@@ -22,7 +22,7 @@
         <sys_class_name>sys_dictionary_override</sys_class_name>
         <sys_created_by>adm.eldons</sys_created_by>
         <sys_created_on>2018-04-27 18:30:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>64bf9124dbf9170032a53c8f9d96193f</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>assigned_to</sys_name>

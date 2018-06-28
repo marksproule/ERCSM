@@ -10,14 +10,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-27 18:21:48</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>258dff02db1a97400124327e9d961981</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-27 18:22:33</sys_updated_on>
+            <sys_id>4bdc2175dba25f00ffdb389f9d961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>CAG Analysis</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -29,14 +29,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-27 18:24:06</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d7fdb7c2db1a97400124327e9d9619d2</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-27 18:24:12</sys_updated_on>
+            <sys_id>8bdc2175dba25f00ffdb389f9d961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>CAG Cancelled</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -48,14 +48,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-27 18:23:49</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3dedb7c2db1a97400124327e9d961930</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-27 18:23:52</sys_updated_on>
+            <sys_id>cbdc2175dba25f00ffdb389f9d961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>CAG Deferred</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -67,14 +67,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-27 18:24:23</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>dc1e77c2db1a97400124327e9d9619ae</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-27 18:24:25</sys_updated_on>
+            <sys_id>0fdc2175dba25f00ffdb389f9d961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>CAG Denied</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -86,14 +86,14 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-27 18:22:54</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d09db7c2db1a97400124327e9d961930</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-27 18:23:03</sys_updated_on>
+            <sys_id>4fdc2175dba25f00ffdb389f9d961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>CAG Review</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -105,33 +105,33 @@
             <language>en</language>
             <name>x_smoit_enrcsm_case</name>
             <sequence/>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-27 18:23:26</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f9cd77c2db1a97400124327e9d9619ad</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-27 18:23:29</sys_updated_on>
+            <sys_id>8fdc2175dba25f00ffdb389f9d961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
             <value>CAG Scheduled</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>cag_state</element>
             <name>x_smoit_enrcsm_case</name>
             <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-05-27 18:21:48</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-06-07 23:26:57</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>258dff02db1a97400124327e9d961983</sys_id>
-            <sys_mod_count>13</sys_mod_count>
+            <sys_id>83dc2175dba25f00ffdb389f9d961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>cag_state</sys_name>
             <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
             <sys_update_name>sys_choice_x_smoit_enrcsm_case_cag_state</sys_update_name>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-05-27 18:24:25</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-06-07 23:26:57</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

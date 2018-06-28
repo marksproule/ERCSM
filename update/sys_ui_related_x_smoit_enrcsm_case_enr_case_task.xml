@@ -25,7 +25,7 @@
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
             <sys_updated_on>2018-05-23 16:29:20</sys_updated_on>
             <sys_user/>
-            <view display_value="ER Case Task" name="enr_case_task">bd9d13ffdbe957000124327e9d9619d0</view>
+            <view display_value="ER Case Task" name="enr_case_task">50a84e39db665f00ffdb389f9d9619e2</view>
             <view_name/>
         </sys_ui_related_list>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
@@ -52,7 +52,7 @@
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
             <sys_updated_on>2018-05-23 16:29:20</sys_updated_on>
             <sys_user/>
-            <view display_value="ER Case Task" name="enr_case_task">bd9d13ffdbe957000124327e9d9619d0</view>
+            <view display_value="ER Case Task" name="enr_case_task">50a84e39db665f00ffdb389f9d9619e2</view>
             <view_name/>
         </sys_ui_related_list>
     </sys_ui_related>

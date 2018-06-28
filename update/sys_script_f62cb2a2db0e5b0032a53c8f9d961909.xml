@@ -48,7 +48,7 @@
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>adm.Marks</sys_created_by>
         <sys_created_on>2018-05-16 16:43:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f62cb2a2db0e5b0032a53c8f9d961909</sys_id>
