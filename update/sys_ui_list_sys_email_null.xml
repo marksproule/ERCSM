@@ -4,152 +4,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>blind_copied</element>
-            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31c71f9db265f00ffdb389f9d96193f</list_id>
+            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a8da9e46db4fd3400124327e9d96195d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-06-08 00:33:37</sys_created_on>
-            <sys_id>6f1c71f9db265f00ffdb389f9d96193f</sys_id>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-07-03 17:57:39</sys_created_on>
+            <sys_id>64da9e46db4fd3400124327e9d96195e</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-06-08 00:33:37</sys_updated_on>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:57:39</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>body</element>
-            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31c71f9db265f00ffdb389f9d96193f</list_id>
+            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a8da9e46db4fd3400124327e9d96195d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-06-08 00:33:37</sys_created_on>
-            <sys_id>e31c71f9db265f00ffdb389f9d961940</sys_id>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-07-03 17:57:39</sys_created_on>
+            <sys_id>e8da9e46db4fd3400124327e9d96195e</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-06-08 00:33:37</sys_updated_on>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:57:39</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>body_text</element>
-            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31c71f9db265f00ffdb389f9d96193f</list_id>
+            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a8da9e46db4fd3400124327e9d96195d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-06-08 00:33:37</sys_created_on>
-            <sys_id>671c71f9db265f00ffdb389f9d961940</sys_id>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-07-03 17:57:39</sys_created_on>
+            <sys_id>6cda9e46db4fd3400124327e9d96195e</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-06-08 00:33:37</sys_updated_on>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:57:39</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>checkpoint</element>
-            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31c71f9db265f00ffdb389f9d96193f</list_id>
+            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a8da9e46db4fd3400124327e9d96195d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-06-08 00:33:37</sys_created_on>
-            <sys_id>e71c71f9db265f00ffdb389f9d961940</sys_id>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-07-03 17:57:39</sys_created_on>
+            <sys_id>ecda9e46db4fd3400124327e9d96195e</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-06-08 00:33:37</sys_updated_on>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:57:39</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>content_type</element>
-            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31c71f9db265f00ffdb389f9d96193f</list_id>
+            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a8da9e46db4fd3400124327e9d96195d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-06-08 00:33:37</sys_created_on>
-            <sys_id>6b1c71f9db265f00ffdb389f9d961940</sys_id>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-07-03 17:57:39</sys_created_on>
+            <sys_id>60da9e46db4fd3400124327e9d96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-06-08 00:33:37</sys_updated_on>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:57:39</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>copied</element>
-            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31c71f9db265f00ffdb389f9d96193f</list_id>
+            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a8da9e46db4fd3400124327e9d96195d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-06-08 00:33:37</sys_created_on>
-            <sys_id>eb1c71f9db265f00ffdb389f9d961940</sys_id>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-07-03 17:57:39</sys_created_on>
+            <sys_id>e0da9e46db4fd3400124327e9d96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-06-08 00:33:37</sys_updated_on>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:57:39</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>deleted</element>
-            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31c71f9db265f00ffdb389f9d96193f</list_id>
+            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a8da9e46db4fd3400124327e9d96195d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-06-08 00:33:37</sys_created_on>
-            <sys_id>6f1c71f9db265f00ffdb389f9d961940</sys_id>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-07-03 17:57:39</sys_created_on>
+            <sys_id>64da9e46db4fd3400124327e9d96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-06-08 00:33:37</sys_updated_on>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:57:39</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>direct</element>
-            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31c71f9db265f00ffdb389f9d96193f</list_id>
+            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a8da9e46db4fd3400124327e9d96195d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-06-08 00:33:37</sys_created_on>
-            <sys_id>ef1c71f9db265f00ffdb389f9d961940</sys_id>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-07-03 17:57:39</sys_created_on>
+            <sys_id>e4da9e46db4fd3400124327e9d96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-06-08 00:33:37</sys_updated_on>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:57:39</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>error_string</element>
-            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31c71f9db265f00ffdb389f9d96193f</list_id>
+            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a8da9e46db4fd3400124327e9d96195d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-06-08 00:33:37</sys_created_on>
-            <sys_id>631c71f9db265f00ffdb389f9d961941</sys_id>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-07-03 17:57:39</sys_created_on>
+            <sys_id>68da9e46db4fd3400124327e9d96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-06-08 00:33:37</sys_updated_on>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:57:39</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>headers</element>
-            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31c71f9db265f00ffdb389f9d96193f</list_id>
+            <list_id display_value="sys_email" element="NULL" name="sys_email" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a8da9e46db4fd3400124327e9d96195d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
-            <sys_created_by>adm.Marks</sys_created_by>
-            <sys_created_on>2018-06-08 00:33:37</sys_created_on>
-            <sys_id>e31c71f9db265f00ffdb389f9d961941</sys_id>
+            <sys_created_by>adm.Atiyeht</sys_created_by>
+            <sys_created_on>2018-07-03 17:57:39</sys_created_on>
+            <sys_id>e8da9e46db4fd3400124327e9d96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adm.Marks</sys_updated_by>
-            <sys_updated_on>2018-06-08 00:33:37</sys_updated_on>
+            <sys_updated_by>adm.Atiyeht</sys_updated_by>
+            <sys_updated_on>2018-07-03 17:57:39</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -163,11 +163,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>adm.Atiyeht</sys_created_by>
-            <sys_created_on>2018-05-14 15:35:59</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_on>2018-07-03 17:58:46</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c2ea50c6db4697000124327e9d96195d</sys_id>
+            <sys_id>8d1bd246db4fd3400124327e9d961942</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sys_email</sys_name>
             <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
@@ -176,7 +176,7 @@
             <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
             <sys_update_name>sys_ui_list_sys_email_null</sys_update_name>
             <sys_updated_by>adm.Atiyeht</sys_updated_by>
-            <sys_updated_on>2018-05-14 15:35:59</sys_updated_on>
+            <sys_updated_on>2018-07-03 17:58:46</sys_updated_on>
             <sys_user display_value="Atiyeh Tash (admin)">0b1ec03fdbd2c30ca9ba591e5e9619d5</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

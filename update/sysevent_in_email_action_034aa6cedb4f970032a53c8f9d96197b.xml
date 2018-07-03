@@ -12,7 +12,7 @@ Date     Created /UpdatedBy     Feature#     Short Description of change&#13;
         <event_name>email.read</event_name>
         <filter_condition/>
         <from/>
-        <name>ER Create Case via SaskTel</name>
+        <name>ER Create Case via SaskTel FW</name>
         <order>45</order>
         <reply_email/>
         <required_roles/>
@@ -29,24 +29,24 @@ current.insert();
 })(current, event, email, logger, classifier);]]></script>
         <stop_processing>true</stop_processing>
         <sys_class_name>sysevent_in_email_action</sys_class_name>
-        <sys_created_by>adm.Atiyeht</sys_created_by>
-        <sys_created_on>2018-04-30 22:36:10</sys_created_on>
+        <sys_created_by>adm.Marks</sys_created_by>
+        <sys_created_on>2018-07-03 19:05:15</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e4d43925db31db000124327e9d96196b</sys_id>
-        <sys_mod_count>29</sys_mod_count>
-        <sys_name>ER Create Case via SaskTel</sys_name>
+        <sys_id>034aa6cedb4f970032a53c8f9d96197b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ER Create Case via SaskTel FW</sys_name>
         <sys_overrides/>
         <sys_package display_value="Energy and Resources Customer Service Management" source="x_smoit_enrcsm">84b3748adb2cd70432a53c8f9d96193f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Energy and Resources Customer Service Management">84b3748adb2cd70432a53c8f9d96193f</sys_scope>
-        <sys_update_name>sysevent_in_email_action_e4d43925db31db000124327e9d96196b</sys_update_name>
+        <sys_update_name>sysevent_in_email_action_034aa6cedb4f970032a53c8f9d96197b</sys_update_name>
         <sys_updated_by>adm.Marks</sys_updated_by>
-        <sys_updated_on>2018-07-03 19:05:43</sys_updated_on>
+        <sys_updated_on>2018-07-03 19:05:28</sys_updated_on>
         <table>x_smoit_enrcsm_case</table>
         <template/>
-        <type>new</type>
+        <type>forward</type>
     </sysevent_in_email_action>
 </record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client" audit="true" extends="sn_customerservice_case" label="ER Case" max_length="40" name="x_smoit_enrcsm_case" sizeclass="19" type="collection">
+    <element attributes="email_client" audit="true" extends="sn_customerservice_case" label="ER Case" max_length="40" name="x_smoit_enrcsm_case" sizeclass="20" type="collection">
         <element choice="1" label="IRIS Business Area" max_length="40" name="business_area" type="string">
             <choice>
                 <element label="Audit Revenue Management" sequence="1" value="audit_revenue_management"/>
